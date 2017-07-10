@@ -152,9 +152,9 @@
 	
 	<!--Alert -->
 	<item id="010501">決定</item>
-	<item id="010502">キャンセル</item>
+	<item id="010502">取消</item>
 	<item id="010503">決定</item>
-	<item id="010504">キャンセル</item>
+	<item id="010504">取消</item>
 	<item id="010505">閉じる</item>
 	<item id="010506">戻る</item>
 	
@@ -933,7 +933,7 @@
 	<item id="101019"><![CDATA[<u>シークレットチャット</u>]]></item>
 	<item id="101020">ビギナーインストラクター</item>
 	<item id="101021">決定</item>
-	<item id="101022">キャンセル</item>
+	<item id="101022">取消</item>
 	<item id="101023">シークレットチャットプレイヤーの名を入力してください：</item>
 	<item id="101024"><![CDATA[<a href="event：ironGemWar|{0}|{1}"><u><font color="#AFD968">クリックして進入</font></u></a>]]></item>
 	<item id="101025"><![CDATA[<a href="event：ironEnterWar|{0}|{1}"><u><font color="#AFD968">直ちに反撃</font></u></a>]]></item>
@@ -1026,6 +1026,7 @@
 	
 	
 	<item id="101150"></item>
+	<item id="101151">您的账号有异常，请重新登录。</item>
 	
 	<!-- expedition(副本) -->
 	<item id="102001"><![CDATA[Lv{0}：{1}[br]{2}[br]陣形：{3}[br]ドロップアイテム：{4}]]></item>

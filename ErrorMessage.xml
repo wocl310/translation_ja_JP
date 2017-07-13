@@ -4,7 +4,7 @@
     <item id="E00000">無効操作</item>	
 	<item id="E00001">無効パラメータ</item>
 	<item id="E00002">食糧不足</item>
-    <item id="E00003">銀貨不足</item>	
+    <item id="E00003">玩家在其他电脑上登录了</item>	
 	<item id="E00004">金貨不足</item>
 	<item id="E00005">必要な資源が不足</item>
 	<item id="E00006">官職条件未満</item>

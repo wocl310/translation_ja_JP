@@ -3706,6 +3706,12 @@
 	<item id="2055017">张角</item>
 	<item id="2055018">召唤怪</item>
 	<item id="2055019">体力</item>
+	<item id="2055020">冲锋阵</item>
+	<item id="2055021">方形阵</item>
+	<item id="2055022">雁行阵</item>
+	<item id="2055023">鹤翼阵</item>
+	<item id="2055024">凸形阵</item>
+	<item id="2055025">凹形阵</item>
 	
 	<!--朝拜府邸名称-->
 	<item id="20560001">皇宫</item>

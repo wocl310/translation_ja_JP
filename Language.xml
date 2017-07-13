@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>	
+<?xml version="1.0" encoding="utf-8"?>	
 <!--语言包 -->	
 <language>	
 	<!--提示消息 -->
@@ -881,9 +881,9 @@
 	<item id="021748">デイリーログインモジュール</item>
 	
 	<!--人物加成BUFF模块 -->
-	<item id="021749">人物加成配置</item>
-	<item id="021750">人物加成界面</item>
-	<item id="021751">人物加成模块</item>
+	<item id="021749">人物設定</item>
+	<item id="021750">人物インタフェース</item>
+	<item id="021751">人物モジュール</item>
 	
 	<!--18禁模块 -->
 	<item id="021752"></item>
@@ -1026,7 +1026,7 @@
 	
 	
 	<item id="101150"></item>
-	<item id="101151">您的账号有异常，请重新登录。</item>
+	<item id="101151">アカウント異常です。再度ログインしてください。</item>
 	
 	<!-- expedition(副本) -->
 	<item id="102001"><![CDATA[Lv{0}：{1}[br]{2}[br]陣形：{3}[br]ドロップアイテム：{4}]]></item>
@@ -1317,7 +1317,7 @@
 	<item id="110395">飛躍</item>
 	<item id="110396">躍進</item>
 	<item id="110397">回数は翌日05：00にリセットされます</item>
-	<item id="110398"><![CDATA[<font color='#d16ff2'>{0}になるとスキル</font>[br]<font color='#72df37'>Lv1{1}</font>が開放されます[br]<font color='#afafaf'>{2}</font>[br]<font color='#68a0dc'>有効化条件：</font><font color='#dedede'>{3}</font>[br]───────────────[br]<font color='#72df37'>Lv2{4}</font>[br]<font color='#afafaf'>{5}</font>[br]<font color='#68a0dc'>昇級条件：</font><font color='#dedede'>{6}</font>[br]───────────────[br]<font color='#72df37'>Lv3{7}</font>[br]<font color='#afafaf'>{8}</font>[br]<font color='#68a0dc'>昇級条件：</font><font color='#dedede'>{9}</font>]]></item>
+	<item id="110398"><![CDATA[<font color='#d16ff2'>{0}になるとスキル</font>[br]<font color='#72df37'>Lv1{1}</font>が開放されます[br]<font color='#afafaf'>{2}</font>[br]<font color='#68a0dc'>開放条件：</font><font color='#dedede'>{3}</font>[br]───────────────[br]<font color='#72df37'>Lv2{4}</font>[br]<font color='#afafaf'>{5}</font>[br]<font color='#68a0dc'>昇級条件：</font><font color='#dedede'>{6}</font>[br]───────────────[br]<font color='#72df37'>Lv3{7}</font>[br]<font color='#afafaf'>{8}</font>[br]<font color='#68a0dc'>昇級条件：</font><font color='#dedede'>{9}</font>]]></item>
 	<item id="110399"><![CDATA[<font color='#72df37'>Lv1{0}</font>[br]<font color='#dedede'>{1}</font>[br]───────────────[br]<font color='#72df37'>Lv2{2}</font>[br]<font color='#afafaf'>{3}</font>[br]<font color='#68a0dc'>昇級条件：</font><font color='#dedede'>{4}</font>[br]───────────────[br]<font color='#72df37'>Lv3{5}</font>[br]<font color='#afafaf'>{6}</font>[br]<font color='#68a0dc'>昇級条件：</font><font color='#dedede'>{7}</font>]]></item>
 	<item id="110400"><![CDATA[<font color='#72df37'>Lv2{0}</font>[br]<font color='#dedede'>{1}</font>[br]───────────────[br]<font color='#72df37'>Lv3{2}</font>[br]<font color='#afafaf'>{3}</font>[br]<font color='#68a0dc'>昇級条件：</font><font color='#dedede'>{4}</font>]]></item>
 	<item id="110401"><![CDATA[<font color='#72df37'>Lv3{0}</font>[br]<font color='#dedede'>{1}</font>]]></item>
@@ -2611,9 +2611,9 @@
 	<item id="198513"><![CDATA[1.ルーレットは4時間に1回更新されます[br]2.金貨を消費するとルーレットを更新できます[br]3.更新される報酬は全て同じ種類のアイテムです[br]4.報酬は「銀貨」「将星」「鉄」「武魂」の順番で更新されます]]></item>
 	<item id="198514"><![CDATA[1.幸運ルーレットを30回回すと名将<font color='#ffcc00' font="SimHei">【貂蝉】</font>を獲得できます。]]><![CDATA[[br]2.<font color='#ffcc00' font="SimHei">【貂蝉】</font>を招聘した後に回すと、<font color='#ffcc00' font="SimHei">【貂蝉の欠片】</font>を1つ獲得できます。]]><![CDATA[[br]3.デイリールーレット累計回数報酬は翌日00：00にリセットされます。]]></item>
 	<item id="198515">注：抽選には参加できるのはチャージ金貨のみです。帰属金貨では参加できません。</item>
-	<item id="198516">10次</item>
-	<item id="198517">6次</item>
-	<item id="198518">3次</item>
+	<item id="198516">10回</item>
+	<item id="198517">6回</item>
+	<item id="198518">3回</item>
 	
 	<!--集市 -->
 	<item id="198600"><![CDATA[ ]]><![CDATA[（3倍收益）]]></item>
@@ -2660,27 +2660,27 @@
 	<item id="198641">購入回数：{0}/{1} （全ての商品：{2}後に更新されます）</item>
 	<item id="198642">ヒント：【保有済】武将の欠片を購入できます</item>
 	<item id="198643">更新</item>
-	<item id="198644">铢币</item>
+	<item id="198644">銖銭</item>
 	<item id="198645">威望</item>
-	<item id="198646">武斗</item>
-	<item id="198647">我的金币:</item>
+	<item id="198646">武闘</item>
+	<item id="198647">金貨:</item>
 	<item id="198648">我的功勋:</item>
-	<item id="198649">我的将星:</item>
-	<item id="198650">我的铢币:</item>
-	<item id="198651">我的威望:</item>
-	<item id="198652">我的武斗点数:</item>
-	<item id="198653">我的银币:</item>
-	<item id="198654">67级开启武斗场后开启</item>
-	<item id="198655">小提示：提升霸府商贩可增加商品种类</item>
-	<item id="198656"><![CDATA[升至{0}级商贩需要官职：<font color="#cc0000">{1}</font>]]></item>
-	<item id="198657">霸府商贩已升至最高级！</item>
-	<item id="198658">获取金币</item>
-	<item id="198659">获取功勋</item>
-	<item id="198660">38级开启霸府后开启</item>
-	<item id="198661">获取将星</item>
-	<item id="198662">获取铢币</item>
-	<item id="198663">获取威望</item>
-	<item id="198664">获取点数</item>
+	<item id="198649">将星:</item>
+	<item id="198650">銖銭:</item>
+	<item id="198651">威望:</item>
+	<item id="198652">闘技ポイント:</item>
+	<item id="198653">銀貨:</item>
+	<item id="198654">Lv67で闘技場開放後に開放</item>
+	<item id="198655">霸府商店をレベルアップすると販売アイテムが増加</item>
+	<item id="198656"><![CDATA[商店レベル{0}にアップに必要な官職：<font color="#cc0000">{1}</font>]]></item>
+	<item id="198657">霸府商店は最高のレベルにアップしました！</item>
+	<item id="198658">金貨獲得</item>
+	<item id="198659">勲功獲得</item>
+	<item id="198660">Lv38で覇府開放後に開放</item>
+	<item id="198661">将星獲得</item>
+	<item id="198662">銖銭獲得</item>
+	<item id="198663">威望獲得</item>
+	<item id="198664">ポイント獲得</item>
 	
 	<!--军队任务 -->
 	<item id="198700">国家大城：</item>
@@ -2724,7 +2724,7 @@
 	<item id="198817"><![CDATA[張繍を招聘する]]></item>
 	<item id="198818"><![CDATA[張繍を強化する]]></item>
 	
-	<!-- 试炼场 -->
+	<!-- 試練場 -->
 	<item id="198900"><![CDATA[試練場]]></item>
 	<item id="198901"><![CDATA[任務中]]></item>
 	<item id="198902"><![CDATA[報酬：]]></item>
@@ -2922,7 +2922,7 @@
 	<item id="203013"><![CDATA[<font color="#72df37" size="14"><b>本次更新内容如下：</b></font>
 	
 <font color="#ccb986" size="12"><b>一、主城建筑新增提示图标</b></font>	
-<font color="#ffffcc" size="12">  1.在主城建筑（围栏、监狱、试炼场、兵符殿）建筑上方增加提示图标。	
+<font color="#ffffcc" size="12">  1.在主城建筑（围栏、监狱、試練場、兵符殿）建筑上方增加提示图标。	
 </font>	
 	
 <font color="#ccb986" size="12"><b>二、新增史诗级武将</b></font>	
@@ -2935,7 +2935,7 @@
 	
 <font color="#ccb986" size="12"><b>三、商城整合</b></font>	
 <font color="#ffffcc" size="12">  1.原有集市改名为商城，增加金币购买的商品；	
-  2.世界—功勋商店整合放入商城中；	
+  2.世界—勲功商店整合放入商城中；	
   3.霸府—商贩整合放入商城中；	
   4.霸府—虎将馆整合放入商城中；	
   5.武斗场—商店整合放入商城中。	
@@ -3000,7 +3000,7 @@
 	<item id="204018"></item>
 	<item id="204019">中級</item>
 	<item id="204020">高級</item>
-	<item id="204021"><![CDATA[<font color='#72df37'>Lv1{0}</font>[br]<font color='#afafaf'>{1}</font>[br]<font color='#68a0dc'>有効化条件：</font><font color='#dedede'>{2}</font>[br]───────────────[br]<font color='#72df37'>Lv2{3}</font>[br]<font color='#afafaf'>{4}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{5}</font>[br]───────────────[br]<font color='#72df37'>Lv3{6}</font>[br]<font color='#afafaf'>{7}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{8}</font>]]></item>
+	<item id="204021"><![CDATA[<font color='#72df37'>Lv1{0}</font>[br]<font color='#afafaf'>{1}</font>[br]<font color='#68a0dc'>開放条件：</font><font color='#dedede'>{2}</font>[br]───────────────[br]<font color='#72df37'>Lv2{3}</font>[br]<font color='#afafaf'>{4}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{5}</font>[br]───────────────[br]<font color='#72df37'>Lv3{6}</font>[br]<font color='#afafaf'>{7}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{8}</font>]]></item>
 	<item id="204022">スキルデモ</item>
 	<item id="204023">銘器</item>
 	<item id="204024">一括レベルアップ</item>
@@ -3026,8 +3026,8 @@
 	<item id="204044"><![CDATA[{0}の欠片]]></item>
 	<item id="204045">欠片x10</item>
 	<item id="204046">飛躍には欠片を10個消費します</item>
-	<item id="204047">通关42级副本开启</item>
-	<item id="204048">50级建造围栏后开启</item>
+	<item id="204047">Lv42戦役クリア後、開放</item>
+	<item id="204048">Lv50で囲いを建設で開放</item>
 	<item id="204049">酔雲酒場</item>
 	<item id="204050">賞金酒場</item>
 	<item id="204051">朝焼酒場</item>
@@ -3047,7 +3047,7 @@
 	<item id="204065">千軍一掃</item>
 	<item id="204066">潜在能力刺激</item>
 	<item id="204067">神獣騎乗</item>
-	<item id="204068">通关58级副本开启</item>
+	<item id="204068">Lv58戦役クリア後、開放</item>
 	<item id="204069"><![CDATA[<font size='16' color='#72df37'><b>[{0}]レベルアップ：</b></font>]]></item>
 	<item id="204070">開放</item>
 	<item id="204071">帰主</item>
@@ -3064,7 +3064,7 @@
 	<item id="204082"><![CDATA[（武将は複数の神獣を保有できますが、神獣1匹が帰属する主は1人だけです。]]><![CDATA[）]]></item>
 	<item id="204083"><![CDATA[   ]]><![CDATA[闘技場で獲得した“開放石”が生み出す狂乱の力は、神獣に眠る太古の力を呼び覚まし、神獣に新しいスキルを覚えさせることができます。]]><![CDATA[（神獣進化スキルは残ります）]]></item>
 	<item id="204084"><![CDATA[（本当にこの神獣のスキルを封印しますか？]]><![CDATA[）]]></item>
-	<item id="204085"><![CDATA[神兽进化条件:[br]1.当前装备升至满级[br]2.需要足够的进化丹[br]3.需要足够的解封石]]></item>
+	<item id="204085"><![CDATA[神獣進化条件:[br]1.現在の装備を上限まで強化[br]2.進化霊薬[br]3.開放石]]></item>
 	<item id="204086"><![CDATA[レベル{0}]]></item>
 	<item id="204087"><![CDATA[レベル：<font size='16' color='#ffcc00'><b>{0}</b></font>]]></item>
 	<item id="204088"><![CDATA[戦闘力：<font size='16' color='#ffcc00'><b>{0}</b></font>]]></item>
@@ -3075,7 +3075,7 @@
 	<item id="204093"><![CDATA[現在神獣レベルは最高です[br]（装備はレベルアップできます）]]></item>
 	<item id="204094">黄以上等級の神獣は帰主を実行できます</item>
 	<item id="204095"><![CDATA[<font color='#e2a946'><b>{0}</b></font>【{1}】<font color='#d23a3a'>（鋳造すると有効化されます）</font>[br]<font color='#afafaf'>{2}</font>]]></item>
-	<item id="204096"><![CDATA[<font color='{0}'>{1}</font>[br]<font color='#72df37'>{2}</font>[br]属性：{3}[br]战力：{4}[br]<font color='#e2a946'>获取途径：</font><font color='#ffffff'>{5}</font>]]></item>
+	<item id="204096"><![CDATA[<font color='{0}'>{1}</font>[br]<font color='#72df37'>{2}</font>[br]属性：{3}[br]战力：{4}[br]<font color='#e2a946'>入手方法：</font><font color='#ffffff'>{5}</font>]]></item>
 	
 	<!-- 自动战斗附加 -->
 	<item id="204101"><![CDATA[{0}<font color='{1}'>{2}</font>-<font color='#e2a946'>戦闘に勝利しました！]]><![CDATA[</font>]]></item>
@@ -3100,11 +3100,11 @@
 	<item id="204200">{0}：</item>
 	<item id="204201">{0}の主な用途：</item>
 	<item id="204202">主な入手方法：</item>
-	<item id="204203"><![CDATA[<a href="event:module:8"><u>科技馆</u></a>、<a href="event:module:42:2"><u>黑市</u></a>、<a href="event:module:16"><u>监狱升级</u></a>、[br]<a href="event:module:48:1"><u>督运升级</u></a>、<a href="event:function:55:1"><u>发起军令状</u></a>、<a href="event:module:7"><u>技能升级</u></a>]]></item>
+	<item id="204203"><![CDATA[<a href="event:module:8"><u>研究所</u></a>、<a href="event:module:42:2"><u>闇市</u></a>、<a href="event:module:16"><u>牢獄昇級</u></a>、[br]<a href="event:module:48:1"><u>輸送昇級</u></a>、<a href="event:function:55:1"><u>軍令書を発する</u></a>、<a href="event:module:7"><u>武将スキル昇級</u></a>]]></item>
 	<item id="204204"><![CDATA[<a href="event：module：7：1"><u>武将強化</u></a>、<a href="event：module：42：1"><u>武将の欠片購入</u></a>]]></item>
 	<item id="204205"><![CDATA[<a href="event：module：30：1"><u>兵符</u></a>、<a href="event：module：30：4"><u>宝石</u></a>]]></item>
-	<item id="204206"><![CDATA[<a href="event:window:8:store"><u>功勋商店</u></a>、<a href="event:window:13:country"><u>国家粮饷</u></a>、<a href="event:window:13:activity"><u>国家活动宝箱</u></a>]]></item>
-	<item id="204207"><![CDATA[<a href="event:module:23"><u>占城宝箱</u></a>、<a href="event:window:8:store"><u>功勋商店</u></a>、<a href="event:module:47:0"><u>试炼场</u></a>]]></item>
+	<item id="204206"><![CDATA[<a href="event:window:8:store"><u>勲功商店</u></a>、<a href="event:window:13:country"><u>国家俸給</u></a>、<a href="event:window:13:activity"><u>国家イベント宝箱</u></a>]]></item>
+	<item id="204207"><![CDATA[<a href="event:module:23"><u>占城宝箱</u></a>、<a href="event:window:8:store"><u>勲功商店</u></a>、<a href="event:module:47:0"><u>試練場</u></a>]]></item>
 	<item id="204208"><![CDATA[<a href="event：module：30：2"><u>仙人</u></a>]]></item>
 	<item id="204209">小袋銀貨</item>
 	<item id="204210">中袋銀貨</item>
@@ -3121,9 +3121,9 @@
 	<item id="204221"><![CDATA[無料購入回数は1日に2回獲得し、20回まで蓄積できます。]]></item>
 	<item id="204222">クリックすると報酬を獲得します</item>
 	<item id="204223">今日はお知らせを行いません</item>
-	<item id="204224">购买数量：</item>
-	<item id="204225">所需价格：</item>
-	<item id="204226">金币余额：</item>
+	<item id="204224">購入数量：</item>
+	<item id="204225">価格：</item>
+	<item id="204226">残高：</item>
 	
 	<!-- 称号 -->
 	<item id="204300">取得条件：</item>
@@ -3590,30 +3590,30 @@
 	<item id="2051933"><![CDATA[<font color="#72df37" size="14"><B>红方达成目标！</B></font>]]></item>
 	<item id="2051934"><![CDATA[<font color="#72df37" size="14"><B>蓝方达成目标！</B></font>]]></item>
 	<item id="2051935"><![CDATA[<font color="#d33b3a" size="14"><B>闘技場は終了しました]]><![CDATA[</B></font>]]></item>
-	<item id="2051936"><![CDATA[<font color="{0}">万人敌：  2000</font>[br]<font color="{1}">千人敌：  1200</font>[br]<font color="{2}">百夫长：  800</font>[br]<font color="{3}">什　长：  400</font>[br]<font color="{4}">伍　长：  200</font>[br]<font color="{5}">小　兵：  100</font>]]></item>
+	<item id="2051936"><![CDATA[<font color="{0}">万人敵：  2000</font>[br]<font color="{1}">千人敵：  1200</font>[br]<font color="{2}">百夫長：  800</font>[br]<font color="{3}">什　長：  400</font>[br]<font color="{4}">伍　長：  200</font>[br]<font color="{5}">小　兵：  100</font>]]></item>
 	<item id="2051937"><![CDATA[兵士募集令：<font color="{0}">{1}</font>]]></item>
 	<item id="2051938">パーティ</item>
-	<item id="2051939">红方</item>
-	<item id="2051940">蓝方</item>
-	<item id="2051941">主城：红方都城</item>
-	<item id="2051942">主城：蓝方都城</item>
-	<item id="2051943">补血点：可补充兵力</item>
-	<item id="2051944">军令技能点：可领取军令技能</item>
-	<item id="2051945">主将技能点：可领取主将技能</item>
-	<item id="2051946">竞技勋章点：{0}勋章/分钟</item>
-	<item id="2051947">{0}：占领该城，每分钟获得{1}积分</item>
-	<item id="2051948">豪杰榜</item>
-	<item id="2051949">积分大城：</item>
+	<item id="2051939">赤</item>
+	<item id="2051940">青</item>
+	<item id="2051941">主城：赤</item>
+	<item id="2051942">主城：青</item>
+	<item id="2051943">兵力補充所：兵力補充可能</item>
+	<item id="2051944">軍令スキル所：軍令スキル獲得可能</item>
+	<item id="2051945">大将スキル所：大将スキル獲得可能</item>
+	<item id="2051946">闘技勲章所：{0}勲章/分</item>
+	<item id="2051947">{0}：城占領で{1}ポイント/分獲得</item>
+	<item id="2051948">豪傑ランキング</item>
+	<item id="2051949">ポイント大城：</item>
 	<item id="2051950"><![CDATA[<u>{0}</u>]]></item>
-	<item id="2051951">{0}座</item>
-	<item id="2051952">占领方</item>
-	<item id="2051953">每占领1分钟可以获得{0}积分</item>
+	<item id="2051951">{0}城</item>
+	<item id="2051952">占領側</item>
+	<item id="2051953">占領で{0}ポイント/分獲得可能</item>
 	<item id="2051954">MAX</item>
-	<item id="2051955">开启时间：{0}-{1}</item>
-	<item id="2051956">下场开启 {0}</item>
-	<item id="2051957">参赛倒计时 {0}</item>
-	<item id="2051958">跨服竞技场已经开启，赶紧来参加吧！</item>
-	<item id="2051959">通过杀敌升级称号，称号可获得额外战力！</item>
+	<item id="2051955">開放時間：{0}-{1}</item>
+	<item id="2051956">次回開放 {0}</item>
+	<item id="2051957">開放まで {0}</item>
+	<item id="2051958">闘技場が開放されました！</item>
+	<item id="2051959">称号を強化すると戦闘力が上がります！</item>
 	
 	
 	<!--每日签到 -->
@@ -3636,90 +3636,90 @@
 	<item id="2053006">武将一覧</item>
 	<item id="2053007">大将情報</item>
 	<item id="2053008"><![CDATA[数：<font color="#72df37" size="12">{0}</font>]]></item>
-	<item id="2053009"><![CDATA[スキルは<font color='#d16ff2'>{0}で開放されます</font>[br]<font color='#72df37'>Lv1{1}</font>[br]<font color='#afafaf'>{2}</font>[br]<font color='#68a0dc'>有効化条件：</font><font color='#dedede'>{3}</font>[br]───────────────[br]<font color='#72df37'>Lv2{4}</font>[br]<font color='#afafaf'>{5}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{6}</font>[br]───────────────[br]<font color='#72df37'>Lv3{7}</font>[br]<font color='#afafaf'>{8}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{9}</font>[br]───────────────[br]<font color='#72df37'>Lv4{10}</font>[br]<font color='#afafaf'>{11}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{12}</font>[br]───────────────[br]<font color='#72df37'>Lv5{13}</font>[br]<font color='#afafaf'>{14}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{15}</font>]]></item>
+	<item id="2053009"><![CDATA[スキルは<font color='#d16ff2'>{0}で開放されます</font>[br]<font color='#72df37'>Lv1{1}</font>[br]<font color='#afafaf'>{2}</font>[br]<font color='#68a0dc'>開放条件：</font><font color='#dedede'>{3}</font>[br]───────────────[br]<font color='#72df37'>Lv2{4}</font>[br]<font color='#afafaf'>{5}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{6}</font>[br]───────────────[br]<font color='#72df37'>Lv3{7}</font>[br]<font color='#afafaf'>{8}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{9}</font>[br]───────────────[br]<font color='#72df37'>Lv4{10}</font>[br]<font color='#afafaf'>{11}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{12}</font>[br]───────────────[br]<font color='#72df37'>Lv5{13}</font>[br]<font color='#afafaf'>{14}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{15}</font>]]></item>
 	<item id="2053010"><![CDATA[<font color='#72df37'>Lv1{0}</font>[br]<font color='#dedede'>{1}</font>[br]───────────────[br]<font color='#72df37'>Lv2{2}</font>[br]<font color='#afafaf'>{3}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{4}</font>[br]───────────────[br]<font color='#72df37'>Lv3{5}</font>[br]<font color='#afafaf'>{6}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{7}</font>[br]───────────────[br]<font color='#72df37'>Lv4{8}</font>[br]<font color='#afafaf'>{9}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{10}</font>[br]───────────────[br]<font color='#72df37'>Lv5{11}</font>[br]<font color='#afafaf'>{12}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{13}</font>]]></item>
 	<item id="2053011"><![CDATA[<font color='#72df37'>Lv2{0}</font>[br]<font color='#dedede'>{1}</font>[br]───────────────[br]<font color='#72df37'>Lv3{2}</font>[br]<font color='#afafaf'>{3}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{4}</font>[br]───────────────[br]<font color='#72df37'>Lv4{5}</font>[br]<font color='#afafaf'>{6}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{7}</font>[br]───────────────[br]<font color='#72df37'>Lv5{8}</font>[br]<font color='#afafaf'>{9}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{10}</font>]]></item>
 	<item id="2053012"><![CDATA[<font color='#72df37'>Lv3{0}</font>[br]<font color='#dedede'>{1}</font>[br]───────────────[br]<font color='#72df37'>Lv4{2}</font>[br]<font color='#afafaf'>{3}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{4}</font>[br]───────────────[br]<font color='#72df37'>Lv5{5}</font>[br]<font color='#afafaf'>{6}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{7}</font>]]></item>
 	<item id="2053013"><![CDATA[<font color='#72df37'>Lv4{0}</font>[br]<font color='#dedede'>{1}</font>[br]───────────────[br]<font color='#72df37'>Lv5{2}</font>[br]<font color='#afafaf'>{3}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{4}</font>]]></item>
 	<item id="2053014"><![CDATA[<font color='#72df37'>Lv5{0}</font>[br]<font color='#dedede'>{1}</font>]]></item>
-	<item id="2053015"><![CDATA[<font color='#72df37'>Lv1{0}</font>[br]<font color='#afafaf'>{1}</font>[br]<font color='#68a0dc'>有効化条件：</font><font color='#dedede'>{2}</font>[br]───────────────[br]<font color='#72df37'>Lv2{3}</font>[br]<font color='#afafaf'>{4}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{5}</font>[br]───────────────[br]<font color='#72df37'>Lv3{6}</font>[br]<font color='#afafaf'>{7}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{8}</font>]]></item>
+	<item id="2053015"><![CDATA[<font color='#72df37'>Lv1{0}</font>[br]<font color='#afafaf'>{1}</font>[br]<font color='#68a0dc'>開放条件：</font><font color='#dedede'>{2}</font>[br]───────────────[br]<font color='#72df37'>Lv2{3}</font>[br]<font color='#afafaf'>{4}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{5}</font>[br]───────────────[br]<font color='#72df37'>Lv3{6}</font>[br]<font color='#afafaf'>{7}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{8}</font>]]></item>
 	<item id="2053016"><![CDATA[この武将は他の武将の副将に配置されています[br] これ以上副将を配置できません]]></item>
 	<item id="2053017">任命解除</item>
 	<item id="2053018">Lv34戦役をクリアすると開放されます</item>
 	<item id="2053019">まず将軍を招聘してください</item>
-	<item id="2053020"><![CDATA[<font color='#72df37'>Lv1{0}</font>[br]<font color='#afafaf'>{1}</font>[br]<font color='#68a0dc'>有効化条件：</font><font color='#dedede'>{2}</font>[br]───────────────[br]<font color='#72df37'>Lv2{3}</font>[br]<font color='#afafaf'>{4}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{5}</font>[br]───────────────[br]<font color='#72df37'>Lv3{6}</font>[br]<font color='#afafaf'>{7}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{8}</font>]]></item>
-	<item id="2053021"><![CDATA[<font color='#72df37'>Lv1{0}</font>[br]<font color='#afafaf'>{1}</font>[br]<font color='#68a0dc'>有効化条件：</font><font color='#dedede'>{2}</font>[br]───────────────[br]<font color='#72df37'>Lv2{3}</font>[br]<font color='#afafaf'>{4}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{5}</font>[br]───────────────[br]<font color='#72df37'>Lv3{6}</font>[br]<font color='#afafaf'>{7}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{8}</font>[br]───────────────[br]<font color='#72df37'>Lv4{9}</font>[br]<font color='#afafaf'>{10}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{11}</font>[br]───────────────[br]<font color='#72df37'>Lv5{12}</font>[br]<font color='#afafaf'>{13}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{14}</font>]]></item>
+	<item id="2053020"><![CDATA[<font color='#72df37'>Lv1{0}</font>[br]<font color='#afafaf'>{1}</font>[br]<font color='#68a0dc'>開放条件：</font><font color='#dedede'>{2}</font>[br]───────────────[br]<font color='#72df37'>Lv2{3}</font>[br]<font color='#afafaf'>{4}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{5}</font>[br]───────────────[br]<font color='#72df37'>Lv3{6}</font>[br]<font color='#afafaf'>{7}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{8}</font>]]></item>
+	<item id="2053021"><![CDATA[<font color='#72df37'>Lv1{0}</font>[br]<font color='#afafaf'>{1}</font>[br]<font color='#68a0dc'>開放条件：</font><font color='#dedede'>{2}</font>[br]───────────────[br]<font color='#72df37'>Lv2{3}</font>[br]<font color='#afafaf'>{4}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{5}</font>[br]───────────────[br]<font color='#72df37'>Lv3{6}</font>[br]<font color='#afafaf'>{7}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{8}</font>[br]───────────────[br]<font color='#72df37'>Lv4{9}</font>[br]<font color='#afafaf'>{10}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{11}</font>[br]───────────────[br]<font color='#72df37'>Lv5{12}</font>[br]<font color='#afafaf'>{13}</font>[br]<font color='#68a0dc'>レベルアップ条件：</font><font color='#dedede'>{14}</font>]]></item>
 	<item id="2053022"><![CDATA[武将レベルがキャラクターレベルを超えることはできません[br]経験値入手方法：戦役戦闘、世界戦闘、世界政務]]></item>
 	<item id="2053023"><![CDATA[称号購入には100金[br]貨を消費します。本当に購入しますか？]]></item>
 	<item id="2053024"><![CDATA[武将経験値を{0}アップできます]]></item>
 	<item id="2053025"><![CDATA[{0}：<font color="#ccb986">Lv{1}</font>]]></item>
-	<item id="2053026">技能已达最高级！</item>
-	<item id="2053027">获取碎片</item>
-	<item id="2053028">神兽装备系统开启</item>
-	<item id="2053029">神兽可装备兽甲、缰绳、座鞍、脚踏</item>
-	<item id="2053030">神兽装备升级开启</item>
-	<item id="2053031">装备可提升神兽的属性和品质</item>
-	<item id="2053032">神兽进化系统开启</item>
-	<item id="2053033">黄兽</item>
-	<item id="2053034">红兽</item>
-	<item id="2053035">紫兽</item>
-	<item id="2053036">上古神兽</item>
-	<item id="2053037">神兽等级模式调整</item>
+	<item id="2053026">レベルは上限に到達しています！</item>
+	<item id="2053027">欠片獲得</item>
+	<item id="2053028">神獣装備システム開放</item>
+	<item id="2053029">神獣は獣鎧、手綱、鞍、鐙が装備可能</item>
+	<item id="2053030">神獣装備強化システム開放</item>
+	<item id="2053031">装備は神獣の属性と等級を上昇させる</item>
+	<item id="2053032">神獣進化システム開放</item>
+	<item id="2053033">黄神獣</item>
+	<item id="2053034">赤神獣</item>
+	<item id="2053035">紫神獣</item>
+	<item id="2053036">古代神獣</item>
+	<item id="2053037">神獣レベル調整</item>
 	
 	
-	<item id="2053040"><![CDATA[<font color="#ffffcc">普将</font>]]></item>
+	<item id="2053040"><![CDATA[<font color="#ffffcc">普通武将</font>]]></item>
 	<item id="2053041"><![CDATA[<font color="#FFF461">名将</font>]]></item>
-	<item id="2053042"><![CDATA[<font color="#FFF461">中阶名将</font>]]></item>
-	<item id="2053043"><![CDATA[<font color="#FFF461">高阶名将</font>]]></item>
+	<item id="2053042"><![CDATA[<font color="#FFF461">中級名将</font>]]></item>
+	<item id="2053043"><![CDATA[<font color="#FFF461">高級名将</font>]]></item>
 	<item id="2053044"><![CDATA[<font color="#E57FFF">神将</font>]]></item>
-	<item id="2053045"><![CDATA[<font color="#E57FFF">中阶神将</font>]]></item>
-	<item id="2053046"><![CDATA[<font color="#E57FFF">高阶神将</font>]]></item>
+	<item id="2053045"><![CDATA[<font color="#E57FFF">中級神将</font>]]></item>
+	<item id="2053046"><![CDATA[<font color="#E57FFF">高級神将</font>]]></item>
 	
 	
 	<!--人物加成-->
-	<item id="2054001">经验+{0}%</item>
-	<item id="2054002">金币X{0}</item>
-	<item id="2054003">免费</item>
-	<item id="2054004"><![CDATA[    大人，您有些日子没来了。请从下方的经验道具中选择一个，接下来的24小时内，您将获得一定的经验加成。]]></item>
-	<item id="2054005"><![CDATA[<font color="#D7D7D6">{0}</font>[br]<font color="#72df37">{1}</font>[br]<font color='#e2a946'>获取途径：</font><font color="#ffffff">{2}</font>]]></item>
-	<item id="2054006"><![CDATA[1.您在战斗或者完成任务时，将获得额外的经验加成。[br]2.累计加成经验，需要您手动领取。]]></item>
-	<item id="2054007">领取</item>
-	<item id="2054008">累计加成：{0} EXP</item>
+	<item id="2054001">経験値+{0}%</item>
+	<item id="2054002">金貨X{0}</item>
+	<item id="2054003">無料</item>
+	<item id="2054004"><![CDATA[    将軍、ご無沙汰しております。経験値ボーナスキャンペーン開催中です。下記よりお選びください。24時間以内、経験値ボーナスが与えられます。]]></item>
+	<item id="2054005"><![CDATA[<font color="#D7D7D6">{0}</font>[br]<font color="#72df37">{1}</font>[br]<font color='#e2a946'>入手方法：</font><font color="#ffffff">{2}</font>]]></item>
+	<item id="2054006"><![CDATA[1.戦闘、または任務完了後、経験値ボーナスが与えられます。[br]2.経験値ボーナスは受領ボタンで受領できます。]]></item>
+	<item id="2054007">受領</item>
+	<item id="2054008">累計経験値ボーナス：{0} EXP</item>
 	
 	<!--模块标题-->
-	<item id="2055001">军  师</item>
-	<item id="2055002">国家愤怒</item>
+	<item id="2055001">軍  師</item>
+	<item id="2055002">国家の怒り</item>
 	<item id="2055003">兵  符</item>
-	<item id="2055004">军队任务</item>
-	<item id="2055005">武斗场</item>
+	<item id="2055004">軍隊任務</item>
+	<item id="2055005">闘技場</item>
 	<item id="2055006">霸  府</item>
-	<item id="2055007">洛阳争霸赛</item>
-	<item id="2055008">国家任务</item>
-	<item id="2055009">神装府</item>
-	<item id="2055010">占城榜</item>
-	<item id="2055011">官  职</item>
-	<item id="2055012">查看官职</item>
-	<item id="2055013">监  狱</item>
-	<item id="2055014">资源购买</item>
+	<item id="2055007">洛陽争覇戦</item>
+	<item id="2055008">国家任務</item>
+	<item id="2055009">神装備</item>
+	<item id="2055010">占城ランキング</item>
+	<item id="2055011">官  職</item>
+	<item id="2055012">官職を見る</item>
+	<item id="2055013">牢  獄</item>
+	<item id="2055014">資源購入</item>
 	<item id="2055015">点将台</item>
-	<item id="2055016">贡  品</item>
-	<item id="2055017">张角</item>
-	<item id="2055018">召唤怪</item>
+	<item id="2055016">貢  物</item>
+	<item id="2055017">張角</item>
+	<item id="2055018">召喚妖怪</item>
 	<item id="2055019">体力</item>
-	<item id="2055020">冲锋阵</item>
-	<item id="2055021">方形阵</item>
-	<item id="2055022">雁行阵</item>
-	<item id="2055023">鹤翼阵</item>
-	<item id="2055024">凸形阵</item>
-	<item id="2055025">凹形阵</item>
+	<item id="2055020">突撃陣</item>
+	<item id="2055021">方形陣</item>
+	<item id="2055022">雁行陣</item>
+	<item id="2055023">鶴翼陣</item>
+	<item id="2055024">凸形陣</item>
+	<item id="2055025">凹形陣</item>
 	
 	<!--朝拜府邸名称-->
-	<item id="20560001">皇宫</item>
+	<item id="20560001">皇宮</item>
 	<item id="20560002">丞相府</item>
-	<item id="20560003">大将军府</item>
-	<item id="20560004">大司马府</item>
-	<item id="20560005">抚军大将军府</item>
-	<item id="20560006">中军大将军府</item>
-	<item id="20560007">上军大将军府</item>
-	<item id="20560008">镇军大将军府</item>
+	<item id="20560003">大将軍府</item>
+	<item id="20560004">大司馬府</item>
+	<item id="20560005">撫軍大将軍府</item>
+	<item id="20560006">中軍大将軍府</item>
+	<item id="20560007">上軍大将軍府</item>
+	<item id="20560008">鎮軍大将軍府</item>
 </language>	

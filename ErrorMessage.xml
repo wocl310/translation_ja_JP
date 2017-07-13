@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>	
 <!--错误语言包-->	
 <error>	
-    <item id="E00000">無効操作</item>	
+   	<item id="E00000">無効操作</item>	
 	<item id="E00001">無効パラメータ</item>
 	<item id="E00002">食糧不足</item>
-    <item id="E00003">玩家在其他电脑上登录了</item>	
+    	<item id="E00003">このアカウントはリモートでログインされました</item>	
 	<item id="E00004">金貨不足</item>
 	<item id="E00005">必要な資源が不足</item>
 	<item id="E00006">官職条件未満</item>
@@ -20,7 +20,7 @@
 	<item id="E00014">武将数は上限に達しています</item>
 	<item id="E00015">獲得済みの武将</item>
 	<item id="E00016">満員状態</item>
-    <item id="E00017">プレーヤーはオフライン状態です</item>	
+    	<item id="E00017">プレーヤーはオフライン状態です</item>	
 	<item id="E00018">同陣営ではありません</item>
 	<item id="E00019">発言をお控えください</item>
 	<item id="E00020">同陣営、攻撃不能</item>
@@ -29,7 +29,7 @@
 	<item id="E00022">鉄不足</item>
 	<item id="E00023">皮不足</item>
 	<item id="E00024">木不足</item>
-    <item id="E00025">主城にだけ駐屯できます</item>	
+   	 <item id="E00025">主城にだけ駐屯できます</item>	
 	<item id="E00026">技術開発の条件不足</item>
 	<item id="E00027">迷霧戦場中</item>
 	<item id="E00028">プレーヤーは陣内におらず、大将スキルが発動できません</item>
@@ -52,7 +52,7 @@
 	<item id="E00045">この城は世界軍令が使用済みです</item>
 	<item id="E00046">この城は世界軍令がないので、浄化不要です</item>
 	<item id="E00047">武魂不足</item>
-	<item id="E00048">等级已满</item>
+	<item id="E00048">レベル上限</item>
 	<item id="E00049">世界軍令のため、移動できません</item>
 	<item id="E00050">世界軍令のため、攻撃できません</item>
 	<item id="E00051">軍令不足</item>

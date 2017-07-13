@@ -3481,7 +3481,7 @@
 	<item id="2051516">仙人がほしい素材</item>
 	<item id="2051517">1.正解発表時間は2分です[br]2.指定した素材と仙人がほしい果物が一致したら当たりとなります。[br]3.正解数=アイテム数x2xBET数[br]4.BET後には変更はできません[br]5.無料BET数は1日に3回与えられます[br]6.無料BET数は毎日00：00にリセットされます。
 	</item>
-	<item id="2051518"><![CDATA[<font color='{0}'>[{1}]{2}</font>が<font color='#ffcc00'>{3}</font>を獲得]></item>
+	<item id="2051518"><![CDATA[<font color='{0}'>[{1}]{2}</font>が<font color='#ffcc00'>{3}</font>を獲得]]></item>
 	
 	<!--霸府冲级活动 -->
 	<item id="2051600">順位</item>

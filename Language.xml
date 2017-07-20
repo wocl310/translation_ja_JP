@@ -3388,7 +3388,7 @@
 	<item id="2051101">官職</item>
 	<item id="2051102">イベント</item>
 	<item id="2051103">寄付</item>
-	<item id="2051104"><![CDATA[{0}：国家俸給 +{1}%[br]国家俸給：1時間ごとの世界時局に応じて俸給が発出されます。]]></item>
+	<item id="2051104"><![CDATA[{0}：国家俸給 +{1}%[br]国家俸給：1時間ごとの戦況に応じて[br]俸給を獲得できる。]]></item>
 	<item id="2051105">ランキング</item>
 	<item id="2051106">官邸</item>
 	<item id="2051107">府主</item>
@@ -3407,7 +3407,7 @@
 	<item id="2051120"><![CDATA[<font color='#e2a946'>入手方法：</font>]]></item>
 	<item id="2051121"><![CDATA[勲章の主な入手方法：[br]世界軍令書（発出者はより多く獲得できます）[br]世界政務[br]資源寄付]]></item>
 	<item id="2051122"><![CDATA[<a href="event：1">{0}</a>]]></item>
-	<item id="2051123"><![CDATA[おめでとうございます！]]><![CDATA[勲章数が官職{0}の条件数に到達しました]]></item>
+	<item id="2051123"><![CDATA[勲章数が官職{0}の[br]条件を突破！]]></item>
 	<item id="2051124"><![CDATA[{0}<font color='#d16ff2'>{1}</font><font color='{2}'>{3}</font>が国中の力を結集して神獣を召喚しました！]]></item>
 	<item id="2051125"><![CDATA[神獣出現！]]><![CDATA[<font color='#d16ff2'>{0}</font><font color='{1}'>{2}</font>が神獣を召喚しました。様々な報酬をドロップします。<a href='{3}'><u>「向かう」</u></a>]]></item>
 	<item id="2051126">神獣撃破：</item>

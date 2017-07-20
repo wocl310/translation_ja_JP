@@ -1068,7 +1068,7 @@
 	<item id="102038">第八章</item>
 	<item id="102039">第九章</item>
 	<item id="102040">第十章</item>
-	<item id="102041"><![CDATA[{0}级开启]]></item>
+	<item id="102041"><![CDATA[Lv{0}で開放]]></item>
 	
 	<item id="102050">勅令：</item>
 	<item id="102051"><![CDATA[<font color="{0}">{1}</font><fontcolor="#fbfcab">/{2}</font>]]></item>

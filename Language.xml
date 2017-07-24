@@ -1564,11 +1564,11 @@
 	<item id="118000">勲功</item>
 	<item id="118001">【宝庫昇級】</item>
 	<item id="118002">次のレベルの報酬</item>
-	<item id="118003"><![CDATA[勲功をあと<B><font color='#ffcc00'>{0}</font></B>獲得すると、報酬が昇級します]]></item>
+	<item id="118003"><![CDATA[勲功を<B><font color='#ffcc00'>{0}</font></B>獲得で、報酬が昇級！]]></item>
 	<item id="118004">現在報酬レベルは最高です</item>
-	<item id="118005">宝箱を開けると大量の経験値を獲得できます！</item>
+	<item id="118005">宝箱は大量の経験値を獲得可能！</item>
 	<item id="118006">昇級宝箱</item>
-	<item id="118007">結果は毎日24：00に集計され、メールに送られます</item>
+	<item id="118007">結果は毎日24時に集計。メールで配布</item>
 	<item id="118008"><![CDATA[新宝箱：<font color="#d16ff2">{0}</font>[br]{1}[br]{2}[br]{3}]]></item>
 	<item id="118009"><![CDATA[<font color="#d16ff2">現在宝箱レベルは最高です</font>]]></item>
 	<item id="118010">報酬はありません</item>
@@ -1581,11 +1581,11 @@
 	<item id="119001">ランキング報酬：</item>
 	<item id="119002">戦闘に勝利しました：</item>
 	<item id="119003">あと 勲功を獲得すると報酬が昇級します！</item>
-	<item id="119004">{0}を占領する</item>
-	<item id="119005">{0}を守備する</item>
+	<item id="119004">{0}を占領</item>
+	<item id="119005">{0}を守備</item>
 	<item id="119006">{0}</item>
-	<item id="119007"><![CDATA[<a href="event：1"><font color="#ffcc00" stroke="0x000000">{0}</font>を占領する</a>]]></item>
-	<item id="119008"><![CDATA[<font color="#ffcc00" stroke="0x000000">{0}</font>を守備する]]></item>
+	<item id="119007"><![CDATA[<a href="event：1"><font color="#ffcc00" stroke="0x000000">{0}</font>を占領</a>]]></item>
+	<item id="119008"><![CDATA[<font color="#ffcc00" stroke="0x000000">{0}</font>を守備]]></item>
 	<item id="119009">+{0}</item>
 	<item id="119010">{0}、{1}</item>
 	<item id="119011">{0}</item>
@@ -1606,7 +1606,7 @@
 	<item id="119026">皮革：{0}</item>
 	<item id="119027">レベル</item>
 	
-	<item id="119028"><![CDATA[いずれかの<font color="#ffcc00">黄巾軍主城</font>を占領する]]></item>
+	<item id="119028"><![CDATA[いずれかの<font color="#ffcc00">黄巾軍主城</font>を占領]]></item>
 	<item id="119029"><![CDATA[+{0}国家経験値（勝利）]]></item>
 	<item id="119030"><![CDATA[+{0}国家経験値（敗北）]]></item>
 	<item id="119031">国家を昇級する</item>
@@ -3133,7 +3133,7 @@
 	<item id="204302"><![CDATA[残り時間：{0}日]]></item>
 	<item id="204303"><![CDATA[残り時間：{0}]]></item>
 	<item id="204304">クリックで外す</item>
-	<item id="204305">おめでとうございます。新しい称号を獲得しました！</item>
+	<item id="204305">新しい称号を獲得しました！</item>
 	
 	<!-- 元旦活动 -->
 	<item id="204400">ルール説明</item>
@@ -3263,10 +3263,10 @@
 	<!-- 大城任务 -->
 	<item id="2050200">{0}居館</item>
 	<item id="2050201">いつも私{0}は{1}を訪れているが、まさか将軍にお会いできようとは。これも何かの縁じゃ！</item>
-	<item id="2050202">将軍のお越しをお待ちしておりましたぞ！おもてなしが行き届かず申し訳ござらぬ。</item>
-	<item id="2050203">報酬ルール：</item>
-	<item id="2050204">{0}の隊に挑戦し、できる限り多くの部隊を倒します。</item>
-	<item id="2050205">1分間に1部隊を撃破するごとにボーナス報酬を獲得できます。</item>
+	<item id="2050202">将軍！お待ちしておりました！おもてなしが行き届かず申し訳ござらぬ。</item>
+	<item id="2050203">ルール：</item>
+	<item id="2050204">{0}の隊に挑戦し、多くの部隊を討伐。</item>
+	<item id="2050205">1分間に1部隊を撃破でボーナス報酬を獲得。</item>
 	<item id="2050206">居館に挑戦する</item>
 	<item id="2050207">撃破部隊数：</item>
 	<item id="2050208">報酬2倍：</item>

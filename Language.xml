@@ -152,9 +152,9 @@
 	
 	<!--Alert -->
 	<item id="010501">決定</item>
-	<item id="010502">取消</item>
+	<item id="010502">戻る</item>
 	<item id="010503">決定</item>
-	<item id="010504">取消</item>
+	<item id="010504">戻る</item>
 	<item id="010505">閉じる</item>
 	<item id="010506">戻る</item>
 	
@@ -934,7 +934,7 @@
 	<item id="101019"><![CDATA[<u>シークレットチャット</u>]]></item>
 	<item id="101020">ビギナーインストラクター</item>
 	<item id="101021">決定</item>
-	<item id="101022">取消</item>
+	<item id="101022">戻る</item>
 	<item id="101023">シークレットチャットプレイヤーの名を入力してください：</item>
 	<item id="101024"><![CDATA[<a href="event：ironGemWar|{0}|{1}"><u><font color="#AFD968">クリックして進入</font></u></a>]]></item>
 	<item id="101025"><![CDATA[<a href="event：ironEnterWar|{0}|{1}"><u><font color="#AFD968">直ちに反撃</font></u></a>]]></item>
@@ -1137,7 +1137,7 @@
 	<item id="104032">官職戦</item>
 	<item id="104033">鏡像に挑戦する</item>
 	<item id="104034">武将に挑戦する</item>
-	<item id="104035">霸府戦</item>
+	<item id="104035">英雄戦役</item>
 	<item id="104036">争霸戦</item>
 	
 	<item id="104037"><![CDATA[{0}：{1}<font color="#72df37">[br]<font color="#e2a946">用途：いずれかの兵種の兵士募集時に消費します</font>[br]VIPレベルが昇級で倉庫数上限が増加します]]></item>
@@ -1780,7 +1780,7 @@
 	<item id="121206">新しい任務があります。クリックで参加</item>
 	<item id="121207">[{0}]実行中です</item>
 	<item id="121208">報酬があります。クリックで受領</item>
-	<item id="121209">注意：大部分の報酬を獲得するには軍令書を達成する必要があります</item>
+	<item id="121209">注意：軍令書を達成で報酬獲得</item>
 	<item id="121210">配置時間：{0}</item>
 	<item id="121211"><![CDATA[<font color="#e2a946">獲得可能内容：</font>{0}]]></item>
 	<item id="121212">本当に使者を引き継ぎますか？</item>
@@ -1991,7 +1991,7 @@
 	<item id="126041">分解する装備を選択してください</item>
 	<item id="126042">強化する装備を選択してください</item>
 	<item id="126043">鉄</item>
-	<item id="126044">取消</item>
+	<item id="126044">戻る</item>
 	<item id="126045">選択</item>
 	<item id="126046">無料回数{0}/{1}</item>
 	<item id="126047">（恩賜100％獲得）</item>
@@ -2709,7 +2709,7 @@
 	<item id="198800"><![CDATA[退出]]></item>
 	<item id="198801"><![CDATA[受領する]]></item>
 	<item id="198802"><![CDATA[張繍を有効化する]]></item>
-	<item id="198803"><![CDATA[殿、クリックすると我が神技[br]“百鳥朝鳳”をご覧になれますぞ]]></item>
+	<item id="198803"><![CDATA[クリックでスキルを確認！[br]“百鳥朝鳳”をご覧になれますぞ]]></item>
 	<item id="198804"><![CDATA[イベント期間：{0}]]></item>
 	<item id="198805"><![CDATA[1日目]]></item>
 	<item id="198806"><![CDATA[2日目]]></item>
@@ -3700,7 +3700,7 @@
 	<item id="2055009">神装備</item>
 	<item id="2055010">占城ランキング</item>
 	<item id="2055011">官  職</item>
-	<item id="2055012">官職を見る</item>
+	<item id="2055012">官職</item>
 	<item id="2055013">牢  獄</item>
 	<item id="2055014">資源購入</item>
 	<item id="2055015">点将台</item>
@@ -3724,4 +3724,8 @@
 	<item id="20560006">中軍大将軍府</item>
 	<item id="20560007">上軍大将軍府</item>
 	<item id="20560008">鎮軍大将軍府</item>
+	
+	
+	<item id="20561000">{0}金貨を消費して購入しますか？</item>
+	<item id="20561001">本日はこれ以上表示しない</item>
 </language>	

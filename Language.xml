@@ -2553,7 +2553,7 @@
 	
 	<item id="198134"><![CDATA[<u>鍛錬する</u>]]></item>
 	<item id="198135"><![CDATA[<u>交換する</u>]]></item>
-	<item id="198136"><![CDATA[<u>クリックすると[br]受領します</u>]]></item>
+	<item id="198136"><![CDATA[<u>購入</u>]]></item>
 	<item id="198137">土行孫はこの戦闘では使用できません</item>
 	<item id="198138">金貨挑戦</item>
 	<item id="198139"><![CDATA[消費：行動力<b>x<font size="14">{0}</font></b>]]></item>
@@ -2668,7 +2668,7 @@
 	<item id="198645">威望</item>
 	<item id="198646">武闘</item>
 	<item id="198647">金貨:</item>
-	<item id="198648">我的功勋:</item>
+	<item id="198648">勲功:</item>
 	<item id="198649">将星:</item>
 	<item id="198650">銖銭:</item>
 	<item id="198651">威望:</item>

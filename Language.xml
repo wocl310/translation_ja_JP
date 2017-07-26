@@ -903,23 +903,23 @@
 	
 	
 	<!--创角 -->
-	<item id="100001"><![CDATA[同意：<font color="#96fe3b"><a href="event：1"><u>アプリケーションユーザープロトコル</u></a></font>と<font color="#96fe3b">より多くの</font>]]></item>
-	<item id="100002"><![CDATA[<a href="event：1"><u>実名確認>></u></a>]]></item>
+	<item id="100001"><![CDATA[同意：<font color="#96fe3b"><a href="event:1"><u>アプリケーションユーザープロトコル</u></a></font>と<font color="#96fe3b">より多くの</font>]]></item>
+	<item id="100002"><![CDATA[<a href="event:1"><u>実名確認>></u></a>]]></item>
 	<item id="100003"><![CDATA[本アプリケーションは名前、アバター、友達関系など関連情報を取得します。[br]あなたの他のテンセント関連サービスに本アプリケーションとデータが自動的に同期追加されます。[br]本アプリケーションとテンセントはあなたが追加、操作するアプリケーションの情報（名前、アバターなどを含む）を使用します。]]></item>
 	<item id="100004"><![CDATA[ゲームは{0}秒後に自動的に開始します]]></item>
-	<item id="100005"><![CDATA[同意：<font color="#96fe3b"><a href="event：1"><u>アプリケーションユーザープロトコル</u></a></font>]]></item>
+	<item id="100005"><![CDATA[同意：<font color="#96fe3b"><a href="event:1"><u>アプリケーションユーザープロトコル</u></a></font>]]></item>
 	
 	
 	<!--聊天界面 -->
 	<item id="101001"><![CDATA[4<a href="event:name|{0}"><u>{0}</u></a>：<font color="#D99C5F">{1}</font>]]></item>
 	<!--D2BD73 -->
 	<item id="101002"><![CDATA[<font color='{0}'>{1}</font><a href="event:name|{0}"><u>{2}</u></a>：{3}]]></item>
-	<item id="101003"><![CDATA[3あなたは<a href="event：name|{0}"><u>{0}</u></a>に発言：<font color="#66FFFF">{1}</font>]]></item>
-	<item id="101004"><![CDATA[3<a href="event：name|{0}"><u>{0}</u></a>はあなたに発言：<font color="#66FFFF">{1}</font>]]></item>
+	<item id="101003"><![CDATA[3あなたは<a href="event:name|{0}"><u>{0}</u></a>に発言：<font color="#66FFFF">{1}</font>]]></item>
+	<item id="101004"><![CDATA[3<a href="event:name|{0}"><u>{0}</u></a>はあなたに発言：<font color="#66FFFF">{1}</font>]]></item>
 	<item id="101005"><![CDATA[5<font color="#ffcc00">{0}</font>]]></item>
 	<item id="101006"><![CDATA[4{0}：<font color="#D99C5F">{1}</font>]]></item>
 	<item id="101007"><![CDATA[1{0}：{1}]]></item>
-	<item id="101008"><![CDATA[3{2}<a href="event：name|{0}"><u>{0}</u></a>はあなたに発言：<font color="#66FFFF">{1}</font>]]></item>
+	<item id="101008"><![CDATA[3{2}<a href="event:name|{0}"><u>{0}</u></a>はあなたに発言：<font color="#66FFFF">{1}</font>]]></item>
 	<item id="101009"><![CDATA[5{2}<a href="event:name|{0}"><u>{0}</u></a>：<font color="#D99C5F">{1}</font>]]></item>
 	<item id="101010"><![CDATA[1{2}<a href="event:name|{0}"><u>{0}</u></a>：{1}]]></item>
 	
@@ -936,13 +936,13 @@
 	<item id="101021">決定</item>
 	<item id="101022">戻る</item>
 	<item id="101023">シークレットチャットプレイヤーの名を入力してください：</item>
-	<item id="101024"><![CDATA[<a href="event：ironGemWar|{0}|{1}"><u><font color="#AFD968">クリックして進入</font></u></a>]]></item>
-	<item id="101025"><![CDATA[<a href="event：ironEnterWar|{0}|{1}"><u><font color="#AFD968">直ちに反撃</font></u></a>]]></item>
+	<item id="101024"><![CDATA[<a href="event:ironGemWar|{0}|{1}"><u><font color="#AFD968">クリックして進入</font></u></a>]]></item>
+	<item id="101025"><![CDATA[<a href="event:ironEnterWar|{0}|{1}"><u><font color="#AFD968">直ちに反撃</font></u></a>]]></item>
 	<item id="101026">自分とはチャットできません</item>
 	<item id="101027">シークレットチャットプレイヤーの名を入力してください</item>
 	<item id="101028"><![CDATA[<font color="#FF0000">チャット機能は戦役機能開放後に開放</font>]]></item>
-	<item id="101029"><![CDATA[<a href="event：ironWorldCity|{0}|{1}"><u><font color="#AFD968">クリックして進入</font></u></a>]]></item>
-	<item id="101030"><![CDATA[<a href="event：seeWar|{0}|{1}"><u><font color="#AFD968">入ってみる</font></u></a>]]></item>
+	<item id="101029"><![CDATA[<a href="event:ironWorldCity|{0}|{1}"><u><font color="#AFD968">クリックして進入</font></u></a>]]></item>
+	<item id="101030"><![CDATA[<a href="event:seeWar|{0}|{1}"><u><font color="#AFD968">入ってみる</font></u></a>]]></item>
 	<item id="101031">【魏王】</item>
 	<item id="101032">【呉王】</item>
 	<item id="101033">【蜀王】</item>
@@ -1584,7 +1584,7 @@
 	<item id="119004">{0}を占領</item>
 	<item id="119005">{0}を守備</item>
 	<item id="119006">{0}</item>
-	<item id="119007"><![CDATA[<a href="event：1"><font color="#ffcc00" stroke="0x000000">{0}</font>を占領</a>]]></item>
+	<item id="119007"><![CDATA[<a href="event:1"><font color="#ffcc00" stroke="0x000000">{0}</font>を占領</a>]]></item>
 	<item id="119008"><![CDATA[<font color="#ffcc00" stroke="0x000000">{0}</font>を守備]]></item>
 	<item id="119009">+{0}</item>
 	<item id="119010">{0}、{1}</item>
@@ -1592,7 +1592,7 @@
 	<item id="119012"><![CDATA[<font color="#68a0dc">魏</font>が<font color="#e2a946">{0}</font>を落とし、勝利しました！]]></item>
 	<item id="119013">受領する</item>
 	<item id="119014">戻る</item>
-	<item id="119015"><![CDATA[<font color='#21D139'><a href="event：1"><u>敵撃破に向かって報酬を獲得する</u></a></font>]]></item>
+	<item id="119015"><![CDATA[<font color='#21D139'><a href="event:1"><u>敵撃破に向かって報酬を獲得する</u></a></font>]]></item>
 	<item id="119016"><![CDATA[<font color="#e76c6c">蜀</font>が<font color="#e2a946">{0}</font>を落とし、勝利しました！]]></item>
 	<item id="119017"><![CDATA[<font color="#72df37">呉</font>が<font color="#e2a946">{0}</font>を落とし、勝利しました！]]></item>
 	<item id="119018"><![CDATA[<font color="#e2a946">{0}</font>城を落とした国はありません]]></item>
@@ -1633,7 +1633,7 @@
 	<item id="119052">現在勲功レベルは最高です</item>
 	<item id="119053">任務説明</item>
 	<item id="119054"><![CDATA[1.領土争奪開始時には任務城として1つの城を指定します[br]2.任務城は1つの国家が守備し、他の2つの国家が攻撃します[br]3.城が攻撃側に落とされると、その城を落とした国家の勝利となります[br] 任務中に城が落とされなかった時には、守備側の勝利となります[br]4.世界のどの場所で敵を撃破しても国家任務勲功にカウントされ、敵撃破数が多いほど[br] ランキング報酬も多くなります[br]5.勝利した国家は任務報酬を獲得できます]]></item>
-	<item id="119055"><![CDATA[<a href="event：1"><font color="#ffcc00">{0}城を占領</font><font color="#72df37">【{1}】</font></a>]]></item>
+	<item id="119055"><![CDATA[<a href="event:1"><font color="#ffcc00">{0}城を占領</font><font color="#72df37">【{1}】</font></a>]]></item>
 	<item id="119056">現在城数：{0}</item>
 	<item id="119057"><![CDATA[1.天下統一任務は「1」「2」「3」の3段階に分かれ、各段階はそれぞれ30分間です[br]2.各段階では一定数の城を落とす任務目標が示され、その段階終了時に城数が一定数に到達していると任務達成となり、任務報酬を獲得します[br]3.1つの段階が終了すると、次の段階では第1段階よりも多くの城を落とす任務目標が示されます[br]4.城数カウントルール：小城：1.大城：城内拠点の数]]></item>
 	<item id="119058">{0}/{1}日</item>
@@ -1930,7 +1930,7 @@
 	<item id="124080"><![CDATA[欠片 <font size="18">x{0}</font>を獲得します]]></item>
 	<item id="124081">酒券で乾杯すると武将{0}名以上の欠片を獲得できます</item>
 	<item id="124082">武将{0}名の欠片（うちレア武将{1}個以上）を獲得できます。</item>
-	<item id="124083"><![CDATA[酒券入手方法：[br]<font color="#3dc14b"><a href="event：1"><u>1.世界大城</u></a>[br]<a href="event：2"><u>2.国家任務</u></a>[br]<a href="event：3"><u>3.デイリー任務</u></a></font>]]></item>
+	<item id="124083"><![CDATA[酒券入手方法：[br]<font color="#3dc14b"><a href="event:1"><u>1.世界大城</u></a>[br]<a href="event:2"><u>2.国家任務</u></a>[br]<a href="event:3"><u>3.デイリー任務</u></a></font>]]></item>
 	<item id="124084">金貨全席</item>
 	<item id="124085">購入した酒券は武将の招聘に使用できます</item>
 	<item id="124086">詳細</item>
@@ -2321,7 +2321,7 @@
 	<item id="190015">消費：</item>
 	<item id="190016">昇級</item>
 	<item id="190017">{0}技術は未開発</item>
-	<item id="190018"><![CDATA[<a href="event：1"><u>技術に転換する</u></a>]]></item>
+	<item id="190018"><![CDATA[<a href="event:1"><u>技術に転換する</u></a>]]></item>
 	<item id="190019">保管場所ありません。受領してください</item>
 	<item id="190020"><![CDATA[<font color='#ffcc00'>最大レベルに到達</font>]]></item>
 	<item id="190021"><![CDATA[消費：{0}人]]></item>
@@ -2992,14 +2992,14 @@
 	<item id="204006">獲得方法</item>
 	<item id="204007">招聘：</item>
 	<item id="204008">次の武将は未招聘</item>
-	<item id="204009"><![CDATA[<a href="event：1">{0}</a>]]></item>
+	<item id="204009"><![CDATA[<a href="event:1">{0}</a>]]></item>
 	<item id="204010">魏専属武将は獲得できません</item>
 	<item id="204011">蜀専属武将は獲得できません</item>
 	<item id="204012">呉専属武将は獲得できません</item>
 	<item id="204013">魏専属</item>
 	<item id="204014">蜀専属</item>
 	<item id="204015">呉専属</item>
-	<item id="204016"><![CDATA[<a href="event：1">スキルデモ</a>]]></item>
+	<item id="204016"><![CDATA[<a href="event:1">スキルデモ</a>]]></item>
 	<item id="204017">武将紹介</item>
 	<item id="204018"></item>
 	<item id="204019">中級</item>
@@ -3105,11 +3105,11 @@
 	<item id="204201">{0}の主な用途：</item>
 	<item id="204202">主な入手方法：</item>
 	<item id="204203"><![CDATA[<a href="event:module:8"><u>研究所</u></a>、<a href="event:module:42:2"><u>闇市</u></a>、<a href="event:module:16"><u>牢獄昇級</u></a>、[br]<a href="event:module:48:1"><u>輸送昇級</u></a>、<a href="event:function:55:1"><u>軍令書を発する</u></a>、<a href="event:module:7"><u>武将スキル昇級</u></a>]]></item>
-	<item id="204204"><![CDATA[<a href="event：module：7：1"><u>武将強化</u></a>、<a href="event：module：42：1"><u>武将の欠片購入</u></a>]]></item>
-	<item id="204205"><![CDATA[<a href="event：module：30：1"><u>兵符</u></a>、<a href="event：module：30：4"><u>宝石</u></a>]]></item>
+	<item id="204204"><![CDATA[<a href="event:module：7：1"><u>武将強化</u></a>、<a href="event:module：42：1"><u>武将の欠片購入</u></a>]]></item>
+	<item id="204205"><![CDATA[<a href="event:module：30：1"><u>兵符</u></a>、<a href="event:module：30：4"><u>宝石</u></a>]]></item>
 	<item id="204206"><![CDATA[<a href="event:window:8:store"><u>勲功商店</u></a>、<a href="event:window:13:country"><u>国家俸給</u></a>、<a href="event:window:13:activity"><u>国家イベント宝箱</u></a>]]></item>
 	<item id="204207"><![CDATA[<a href="event:module:23"><u>占城宝箱</u></a>、<a href="event:window:8:store"><u>勲功商店</u></a>、<a href="event:module:47:0"><u>試練場</u></a>]]></item>
-	<item id="204208"><![CDATA[<a href="event：module：30：2"><u>仙人</u></a>]]></item>
+	<item id="204208"><![CDATA[<a href="event:module：30：2"><u>仙人</u></a>]]></item>
 	<item id="204209">小袋銀貨</item>
 	<item id="204210">中袋銀貨</item>
 	<item id="204211">大袋銀貨</item>
@@ -3279,7 +3279,7 @@
 	<item id="2050301"><![CDATA[報酬を受領するにはこのウィンドウで課金する必要があります]]></item>
 	<!-- 蓝钻礼包 -->
 	<item id="2050400">青ダイヤレベルが足りません</item>
-	<item id="2050401"><![CDATA[<a href="event：1">これ以外の青ダイヤ特権については、青ダイヤウェブサイトをご覧ください>>></a>]]></item>
+	<item id="2050401"><![CDATA[<a href="event:1">これ以外の青ダイヤ特権については、青ダイヤウェブサイトをご覧ください>>></a>]]></item>
 	<item id="2050402"><![CDATA[青ダイヤ貴族[br]青ダイヤ貴族になりました。青ダイヤ貴族特権は次のとおりです：[br]1.デイリー特権パック[br]2.青ダイヤ年会費会員は毎日プレミアム報酬を獲得できます[br]3.青ダイヤプレミアムビギナーパック[br]4.青ダイヤ貴族マーク[br]5.昇級報酬2倍[br]6.商店の全てのQポイントアイテム20%OFF]]></item>
 	
 	<!-- 腾讯大厅特权 -->
@@ -3405,7 +3405,7 @@
 	<item id="2051119">国家累計勲章</item>
 	<item id="2051120"><![CDATA[<font color='#e2a946'>入手方法：</font>]]></item>
 	<item id="2051121"><![CDATA[勲章の主な入手方法：[br]世界軍令書（発出者はより多く獲得できます）[br]世界政務[br]資源寄付]]></item>
-	<item id="2051122"><![CDATA[<a href="event：1">{0}</a>]]></item>
+	<item id="2051122"><![CDATA[<a href="event:1">{0}</a>]]></item>
 	<item id="2051123"><![CDATA[勲章数が官職{0}の[br]条件を突破！]]></item>
 	<item id="2051124"><![CDATA[{0}<font color='#d16ff2'>{1}</font><font color='{2}'>{3}</font>が国中の力を結集して神獣を召喚しました！]]></item>
 	<item id="2051125"><![CDATA[神獣出現！]]><![CDATA[<font color='#d16ff2'>{0}</font><font color='{1}'>{2}</font>が神獣を召喚しました。様々な報酬をドロップします。<a href='{3}'><u>「向かう」</u></a>]]></item>
@@ -3438,7 +3438,7 @@
 	<item id="2051202">戻る</item>
 	<item id="2051203"><![CDATA[カウントダウン <font size="18" color='#4edb1d'>{0}</font> 中に全ての任務目標を達成すると受領できます]]></item>
 	<item id="2051204"><![CDATA[{0}<font color='#4edb1d'>{1}</font>]]></item>
-	<item id="2051205"><![CDATA[<a href="event：1"><u>「向かう」</u></a>]]></item>
+	<item id="2051205"><![CDATA[<a href="event:1"><u>「向かう」</u></a>]]></item>
 	<item id="2051206">【{0}】</item>
 	<item id="2051207">期間限定任務が発生しました。期間中に任務達成で2倍の報酬を獲得！</item>
 	<item id="2051208">期間限定任務の報酬を受領できます！</item>
@@ -3459,8 +3459,8 @@
 	<item id="2051405"> 回無料獲得</item>
 	<item id="2051406">将星割引2回</item>
 	<item id="2051407">将星 ごとにボーナスパックを獲得できます</item>
-	<item id="2051408"><![CDATA[<a href="event：1"><u>資源購入</u></a>]]></item>
-	<item id="2051409"><![CDATA[<a href="event：1"><u>購入に向かう</u></a>]]></item>
+	<item id="2051408"><![CDATA[<a href="event:1"><u>資源購入</u></a>]]></item>
+	<item id="2051409"><![CDATA[<a href="event:1"><u>購入に向かう</u></a>]]></item>
 	<item id="2051410"><![CDATA[イベント期間：<font size='16'>{0}</font>]]></item>
 	
 	<!--仙师送福模块 -->

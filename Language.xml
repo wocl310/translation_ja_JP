@@ -20,7 +20,7 @@
 	<item id="001011">陣形</item>
 	<item id="001012">技術</item>
 	<item id="001013">武魂</item>
-	<item id="001014">募集令</item>
+	<item id="001014">募兵令</item>
 	<item id="001015">勲章</item>
 	<item id="001016">将星</item>
 	<item id="001017">勅令</item>
@@ -1389,8 +1389,8 @@
 	<item id="110714"><![CDATA[<font color='#ff0000'> 兵士募集には</font>[br]<font color='#ccb986'>{0}</font>を消費します]]></item>
 	<item id="110715">パーティを見る</item>
 	<item id="110716">戦闘を見る</item>
-	<item id="110717"><![CDATA[<font color='#ffffcc'>募集令1枚を消費ですぐに完了できます</font>]]></item>
-	<item id="110718">募集令:</item>
+	<item id="110717"><![CDATA[<font color='#ffffcc'>募兵令1枚を消費ですぐに完了できます</font>]]></item>
+	<item id="110718">募兵令:</item>
 	<item id="110719">移動中です</item>
 	<item id="110720">国家戦挑戦中です</item>
 	<item id="110721">武将戦挑戦中です</item>
@@ -2165,8 +2165,8 @@
 	<item id="132025">毎日</item>
 	<item id="132026">今日は終了しました</item>
 	<item id="132027">戦闘後に兵士募集</item>
-	<item id="132028">自動で募集令使用</item>
-	<item id="132029">募集令を金貨自動購入</item>
+	<item id="132028">自動で募兵令使用</item>
+	<item id="132029">募兵令を金貨自動購入</item>
 	<item id="132030">{0}軍師</item>
 	<item id="132031"><![CDATA[戦闘報酬<font color="#72df37"> {0}%</font>]]></item>
 	<item id="132032">軍師は最高レベルに到達</item>
@@ -2642,7 +2642,7 @@
 	<item id="198619">現在の闇市は最高レベルに到達しています</item>
 	<item id="198620">ただ小銭を稼ぎたいだけなんだ</item>
 	<item id="198621">戦闘前には糧草を買っておくといいでしょう</item>
-	<item id="198622">募集令はよい品ですぞ</item>
+	<item id="198622">募兵令はよい品ですぞ</item>
 	<item id="198623">たまにはいい物も持ってくるんだよ！</item>
 	<item id="198624">今日の天気はなかなかいいね</item>
 	<item id="198625">よくいらっしゃるな</item>
@@ -3096,7 +3096,7 @@
 	<item id="204112"><![CDATA[皮 革: <font color='#fa643c' size='14'>-{0}</font>]]></item>
 	<item id="204113"><![CDATA[鉄鉱石: <font color='#fa643c' size='14'>-{0}</font>]]></item>
 	<item id="204114"><![CDATA[金 貨: <font color='#fa643c' size='14'>-{0}</font>]]></item>
-	<item id="204115"><![CDATA[募集令: <font color='#fa643c' size='14'>-{0}</font>]]></item>
+	<item id="204115"><![CDATA[募兵令: <font color='#fa643c' size='14'>-{0}</font>]]></item>
 	<item id="204116">攻撃</item>
 	<item id="204117">守備</item>
 	
@@ -3592,7 +3592,7 @@
 	<item id="2051934"><![CDATA[<font color="#72df37" size="14"><B>蓝方达成目标！</B></font>]]></item>
 	<item id="2051935"><![CDATA[<font color="#d33b3a" size="14"><B>闘技場は終了しました]]><![CDATA[</B></font>]]></item>
 	<item id="2051936"><![CDATA[<font color="{0}">万人敵:  2000</font>[br]<font color="{1}">千人敵:  1200</font>[br]<font color="{2}">百夫長:  800</font>[br]<font color="{3}">什長:  400</font>[br]<font color="{4}">伍　長:  200</font>[br]<font color="{5}">小　兵:  100</font>]]></item>
-	<item id="2051937"><![CDATA[募集令:<font color="{0}">{1}</font>]]></item>
+	<item id="2051937"><![CDATA[募兵令:<font color="{0}">{1}</font>]]></item>
 	<item id="2051938">パーティ</item>
 	<item id="2051939">赤</item>
 	<item id="2051940">青</item>

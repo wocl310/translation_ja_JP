@@ -1222,7 +1222,7 @@
 	<item id="110305"><![CDATA[官位:<font color='#ffffcc'>{0}</font>]]></item>
 	<item id="110306"><![CDATA[力:<font color='#ffffcc'>{0}</font>]]></item>
 	<item id="110307"><![CDATA[知:<font color='#ffffcc'>{0}</font>]]></item>
-	<item id="110308"><![CDATA[スキル:<font color='#d16ff2'>{0}</font>]]></item>
+	<item id="110308"><![CDATA[技:<font color='#d16ff2'>{0}</font>]]></item>
 	
 	<item id="110309">解雇</item>
 	<item id="110310">装備</item>
@@ -2541,7 +2541,7 @@
 	<item id="198122">自分に挑戦する</item>
 	<item id="198123">挑戦する</item>
 	<item id="198124">虎将館</item>
-	<item id="198125"><![CDATA[<font color="#cc0000">霸府{0}级购买</font>]]></item>
+	<item id="198125"><![CDATA[<font color="#cc0000">覇府Lv{0}で開放</font>]]></item>
 	<item id="198126"><![CDATA[強化:<font color="#72df37">{0}/{1}</font>]]></item>
 	<item id="198127">獲得すると欠片と交換できます</item>
 	<item id="198128"><![CDATA[強化:<font color="#ffcc00">{0}/{1}</font>]]></item>
@@ -3397,7 +3397,7 @@
 	<item id="2051114">（最高官職に到達しています）</item>
 	<item id="2051115">なし</item>
 	<item id="2051116"><![CDATA[貢献疲労:<font size='16'>{0}</font>]]></item>
-	<item id="2051117">{0}を寄付すると{1}ポイント獲得します</item>
+	<item id="2051117">{0}を寄付と{1}ポイント獲得します</item>
 	<item id="2051118"><![CDATA[味方が獲得した勲章に応じて報酬を獲得。毎日0時更新]]><![CDATA[[br]進行度バーが満タンで神獣の1つの部位が点灯[br]3つの部位が点灯で神獣を召喚可能に。]]><![CDATA[[br]3.神獣の召喚は官邸府主のみ可能です。[br]神獣を撃破すると豪華報酬を獲得できます。]]></item>
 	<item id="2051119">国家累計勲章</item>
 	<item id="2051120"><![CDATA[<font color='#e2a946'>入手方法:</font>]]></item>

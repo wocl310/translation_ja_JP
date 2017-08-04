@@ -992,7 +992,7 @@
 	<item id="101090"><![CDATA[<font color="#ffcc00"><font color="{2}">{0}{1}</font>は<font color="#d16ff2">“{3}”</font>軍令書を設定しました！]]><![CDATA[</font>]]></item>
 	<item id="101091"><![CDATA[<font color="#ffcc00"><font color="{1}">{0}</font>は見事軍令書任務を達成しました！]]><![CDATA[</font>]]></item>
 	<item id="101092"><![CDATA[<font color="#ffcc00"><font color="{1}">{0}</font>が設定した<font color="#d16ff2">“{2}”</font>軍令書を達成することはできていません。]]><![CDATA[</font>]]></item>
-	<item id="101093"><![CDATA[<font color="#ffcc00"><font color="#d16ff2">{0}{1}</font>が<font color="#d16ff2">“{2}”</font>軍令書を発しました。各将軍は支援に向かってください！]]><![CDATA[ ]]><![CDATA[<font color='#ffffcc'><a href='{3}'><u>+</u>に向かう</a></font></font>]]></item>
+	<item id="101093"><![CDATA[<font color="#ffcc00"><font color="#d16ff2">{0}{1}</font>が<font color="#d16ff2">“{2}”</font>軍令書を発しました。各将軍は支援に向かってください！<font color='#ffffcc'><a href='{3}'><u>+に向かう</u></a></font></font>]]></item>
 	<item id="101094"><![CDATA[<font color="#ffcc00">x<font color="{1}">{0}</font>が<font color="#d16ff2">{2}</font>を<font color="#d16ff2">{3}</font>名将に強化しました。]]><![CDATA[</font>]]></item>
 	<item id="101095"><![CDATA[<font color="#ffcc00">{0}軍の大将<font color="#d16ff2">{1}</font>の銘器<font color="#d16ff2">{2}</font>の星<font color="#d16ff2">{3}</font>への鋳造が成功しました。]]><![CDATA[</font>]]></item>
 	<item id="101096"><![CDATA[<font color="#ffcc00">{0}軍の大将<font color="#d16ff2">{1}</font>の銘器<font color="#d16ff2">{2}</font>がLv<font color="#d16ff2">{3}</font>に進化しました！]]><![CDATA[</font>]]></item>
@@ -1210,8 +1210,8 @@
 	
 	<item id="110217"><![CDATA[レベル:<font color='#e2a946'>{0}</font>]]></item>
 	<item id="110218"><![CDATA[天赋:<font color='#e2a946'>{0}%</font>]]></item>
-	<item id="110219"><![CDATA[品质:{0}]]></item>
-	<item id="110220"><![CDATA[神兽:<font color='{1}'>{0}</font>]]></item>
+	<item id="110219"><![CDATA[品質:{0}]]></item>
+	<item id="110220"><![CDATA[神獣:<font color='{1}'>{0}</font>]]></item>
 	
 	<!--点将台模块 -->
 	<item id="110301">点将台</item>
@@ -1433,7 +1433,7 @@
 	<item id="110901">鍛造</item>
 	·
 	<item id="110902">価値:</item>
-	<item id="110903"><![CDATA[<font color='{0}'>[{1}]</font>]]></item>
+	<item id="110903"><![CDATA[<font color='{0}'>[{1}]</font>{2}{3}を献上した]]></item>
 	<item id="110904">物理攻撃:</item>
 	<item id="110905">妖術攻撃:</item>
 	<item id="110906"><![CDATA[<font color='#e2a946'>{0}</font><font style='Tahoma'>-</font><font color='#e2a946'>{1}</font>]]></item>
@@ -2513,8 +2513,7 @@
 	<!--累计充值 -->
 	<item id="198000">累計チャージ</item>
 	<item id="198001">チャージ</item>
-	<item id="198002"><![CDATA[累計 <font color='{0}' size='18'><B>{1}</B></font> 金貨チャージ]]></item>
-	<item id="198003"><![CDATA[ <font color='#eccf5d' size='18'><B>{0}</B></font> 金貨が返還されます]]></item>
+	<item id="198002"><![CDATA[累計<font color='#72df37' size='22'>{0}</font>金貨チャージ]]></item>
 	
 	<!--霸府 -->
 	<item id="198100">霸府</item>
@@ -2551,8 +2550,8 @@
 	<item id="198131">敵の陣容</item>
 	<item id="198132"><![CDATA[霸府戦闘中…<font color="#3dce20"><u>戦闘に戻る</u></font>]]></item>
 	
-	<item id="198134"><![CDATA[<u>鍛錬する</u>]]></item>
-	<item id="198135"><![CDATA[<u>交換する</u>]]></item>
+	<item id="198134"><![CDATA[<u>交換</u>]]></item>
+	<item id="198135"><![CDATA[<u>双方</u>]]></item>
 	<item id="198136"><![CDATA[<u>購入</u>]]></item>
 	<item id="198137">土行孫はこの戦闘では使用できません</item>
 	<item id="198138">金貨挑戦</item>
@@ -3104,11 +3103,11 @@
 	<item id="204200">{0}:</item>
 	<item id="204201">{0}の主な用途:</item>
 	<item id="204202">主な入手方法:</item>
-	<item id="204203"><![CDATA[<a href="event:module:8"><u>研究所</u></a>、<a href="event:module:42:2"><u>闇市</u></a>、<a href="event:module:16"><u>牢獄昇級</u></a>、[br]<a href="event:module:48:1"><u>輸送昇級</u></a>、<a href="event:function:55:1"><u>軍令書を発する</u></a>、<a href="event:module:7"><u>武将スキル昇級</u></a>]]></item>
+	<item id="204203"><![CDATA[<a href="event:module:8"><u>研究所</u></a>、<a href="event:module:42:6"><u>闇市</u></a>、<a href="event:module:16"><u>牢獄昇級</u></a>、[br]<a href="event:module:48:1"><u>輸送昇級</u></a>、<a href="event:function:55:1"><u>軍令書を発する</u></a>、<a href="event:module:7"><u>武将スキル昇級</u></a>]]></item>
 	<item id="204204"><![CDATA[<a href="event:module:7:1"><u>武将強化</u></a>、<a href="event:module:42:1"><u>武将の欠片購入</u></a>]]></item>
 	<item id="204205"><![CDATA[<a href="event:module:30:1"><u>兵符</u></a>、<a href="event:module:30:4"><u>宝石</u></a>]]></item>
-	<item id="204206"><![CDATA[<a href="event:window:8:store"><u>勲功商店</u></a>、<a href="event:window:13:country"><u>国家俸給</u></a>、<a href="event:window:13:activity"><u>国家イベント宝箱</u></a>]]></item>
-	<item id="204207"><![CDATA[<a href="event:module:23"><u>占城宝箱</u></a>、<a href="event:window:8:store"><u>勲功商店</u></a>、<a href="event:module:47:0"><u>試練場</u></a>]]></item>
+	<item id="204206"><![CDATA[<a href="event:module:42:1"><u>勲功商店</u></a>、<a href="event:window:13:country"><u>国家俸給</u></a>、<a href="event:window:13:activity"><u>国家イベント宝箱</u></a>]]></item>
+	<item id="204207"><![CDATA[<a href="event:module:23"><u>占城宝箱</u></a>、<a href="event:module:42:1"><u>勲功商店</u></a>、<a href="event:module:47:0"><u>試練場</u></a>]]></item>
 	<item id="204208"><![CDATA[<a href="event:module:30:2"><u>仙人</u></a>]]></item>
 	<item id="204209">小袋銀貨</item>
 	<item id="204210">中袋銀貨</item>

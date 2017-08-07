@@ -2118,7 +2118,7 @@
 	<item id="129067">技能Lv8 → 技能Lv9</item>
 	<item id="129068">技能Lv9 → 技能Lv10</item>
 	
-	
+	<item id="129069">{0}%</item>
 	<!-- 公告 -->
 	<item id="130000"></item>
 	
@@ -2395,7 +2395,7 @@
 	<item id="192106"><![CDATA[大城占領:<font color='#e2a946'>{0}</font>]]></item>
 	<item id="192107"><![CDATA[大城支援:<font color='#e2a946'>{0}</font>]]></item>
 	<item id="192108">順位     名前</item>
-	<item id="192109">合計ポイント</item>
+	<item id="192109">合計</item>
 	<item id="192110">大城占領回数</item>
 	<item id="192111">領土占領回数</item>
 	<item id="192112">攻撃支援回数</item>
@@ -2564,7 +2564,7 @@
 	<item id="198145">サーバー</item>
 	<item id="198146">武将の欠片</item>
 	<item id="198147">行動力x5</item>
-	<item id="198148">最高連勝</item>
+	<item id="198148">連勝</item>
 	<item id="198149">3回掃討</item>
 	<item id="198150">順位</item>
 	<item id="198151">名前</item>
@@ -2684,6 +2684,18 @@
 	<item id="198662">銖銭獲得</item>
 	<item id="198663">威望獲得</item>
 	<item id="198664">獲得</item>
+	<item id="198665">装扮</item>
+	<item id="198666">装扮效果</item>
+	<item id="198667">武将战力：</item>
+	<item id="198668">起</item>
+	<item id="198669">所需充值金：</item>
+	<item id="198670">充值金余额：</item>
+	<item id="198671">7天</item>
+	<item id="198672">30天</item>
+	<item id="198673">永久</item>
+	<item id="198674">选择期限：</item>
+	<item id="198675"><![CDATA[期限：{0}]]></item>
+	<item id="198676"><![CDATA[期限：永久]]></item>
 	
 	<!--军队任务 -->
 	<item id="198700">国家大城:</item>

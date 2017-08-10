@@ -992,7 +992,7 @@
 	<item id="101090"><![CDATA[<font color="#ffcc00"><font color="{2}">{0}{1}</font>は<font color="#d16ff2">“{3}”</font>軍令書を設定しました！]]><![CDATA[</font>]]></item>
 	<item id="101091"><![CDATA[<font color="#ffcc00"><font color="{1}">{0}</font>は見事軍令書任務を達成しました！]]><![CDATA[</font>]]></item>
 	<item id="101092"><![CDATA[<font color="#ffcc00"><font color="{1}">{0}</font>が設定した<font color="#d16ff2">“{2}”</font>軍令書を達成することはできていません。]]><![CDATA[</font>]]></item>
-	<item id="101093"><![CDATA[<font color="#ffcc00"><font color="#d16ff2">{0}{1}</font>が<font color="#d16ff2">“{2}”</font>軍令書を発しました。各将軍は支援に向かってください！<font color='#ffffcc'><a href='{3}'><u>+に向かう</u></a></font></font>]]></item>
+	<item id="101093"><![CDATA[<font color="#ffcc00"><font color="#d16ff2">{0}{1}</font>が<font color="#d16ff2">“{2}”</font>軍令書を発しました。各将軍は支援に向かってください！<font color='#ffffcc'><a href='{3}'><u>向かう</u></a></font></font>]]></item>
 	<item id="101094"><![CDATA[<font color="#ffcc00">x<font color="{1}">{0}</font>が<font color="#d16ff2">{2}</font>を<font color="#d16ff2">{3}</font>名将に強化しました。]]><![CDATA[</font>]]></item>
 	<item id="101095"><![CDATA[<font color="#ffcc00">{0}軍の大将<font color="#d16ff2">{1}</font>の銘器<font color="#d16ff2">{2}</font>の星<font color="#d16ff2">{3}</font>への鋳造が成功しました。]]><![CDATA[</font>]]></item>
 	<item id="101096"><![CDATA[<font color="#ffcc00">{0}軍の大将<font color="#d16ff2">{1}</font>の銘器<font color="#d16ff2">{2}</font>がLv<font color="#d16ff2">{3}</font>に進化しました！]]><![CDATA[</font>]]></item>
@@ -1449,7 +1449,7 @@
 	<item id="110914">属性</item>
 	<item id="110915">鋳造条件</item>
 	<item id="110916">消費</item>
-	<item id="110917">八品で洛陽で装備を獲得</item>
+	<item id="110917">八品で装備を獲得</item>
 	<item id="110918">速度:</item>
 	<item id="110919">攻撃範囲:</item>
 	<item id="110920">アンロック状態（呑食可）</item>
@@ -1717,9 +1717,9 @@
 	<item id="121024"><![CDATA[我が国の将兵は向かうところ敵なし。{0}を蹴散らし、<font color='#d16ff2'>{1}</font>を占領しました]]></item>
 	<item id="121025"><![CDATA[我が国の強力な将兵{0}は、<font color='#d16ff2'>{1}</font>を占領しました！]]><![CDATA[！]]></item>
 	<item id="121026"><![CDATA[{0}が我が国の<font color='#d16ff2'>{1}</font>を奇襲し、我が国は残念ながら敗北しました]]></item>
-	<item id="121027"><![CDATA[この上なき屈辱！]]><![CDATA[<font color='#d16ff2'>{0}</font>の主城が{1}に占領されました。我こそはと思わんプレイヤーは奪回を！<font color='#ffffcc'><a href='{2}'><u>+に向かう</u></a></font>]]></item>
+	<item id="121027"><![CDATA[この上なき屈辱！]]><![CDATA[<font color='#d16ff2'>{0}</font>の主城が{1}に占領されました。我こそはと思わんプレイヤーは奪回を！<font color='#ffffcc'><a href='{2}'><u>向かう</u></a></font>]]></item>
 	<item id="121028"><![CDATA[{0}が<font color='#d16ff2'>{1}</font>を占領し、また勢力を拡大しました！]]></item>
-	<item id="121029"><![CDATA[<font color='#d16ff2'>{0}</font>将軍が守る<font color='#d16ff2'>{1}</font>が{2}の奇襲を受けて占領されました。<font color='#d16ff2'>{0}</font>将軍は都に戻りました！<font color='#ffffcc'><a href='{3}'><u>+に向かう</u></a></font>]]></item>
+	<item id="121029"><![CDATA[<font color='#d16ff2'>{0}</font>将軍が守る<font color='#d16ff2'>{1}</font>が{2}の奇襲を受けて占領されました。<font color='#d16ff2'>{0}</font>将軍は都に戻りました！<font color='#ffffcc'><a href='{3}'><u>向かう</u></a></font>]]></item>
 	<item id="121030"><![CDATA[<font color='#d16ff2'>{0}</font>将軍が守る<font color='#d16ff2'>{1}</font>が{2}の奇襲を受けました。<font color='#d16ff2'>{0}</font>見事防衛に成功しました！]]></item>
 	<item id="121031"><![CDATA[{0}{1}{2}がオンラインになりました。]]></item>
 	<item id="121032"><![CDATA[{0}{1}{2}がオンラインになりました。]]></item>
@@ -1736,7 +1736,7 @@
 	<item id="121043">洛陽をぶらぶらとほっつき歩く時間があれば、戦いの研究でもすることだ</item>
 	<item id="121044">このプレイヤーの陣形は条件を満たしていません。官職戦で守備に参加できません</item>
 	<item id="121045">あなたの陣形は条件を満たしていません。官位を継承できません</item>
-	<item id="121046"><![CDATA[{0}に{1}精鋭部隊が現れました。大量の資源を携帯しています。各将軍は早く討伐に向かってください！<font color='#ffffcc'><a href='{2}'><u>+に向かう</u></a></font>]]></item>
+	<item id="121046"><![CDATA[{0}に{1}精鋭部隊が現れました。大量の資源を携帯しています。各将軍は早く討伐に向かってください！<font color='#ffffcc'><a href='{2}'><u>向かう</u></a></font>]]></item>
 	<item id="121048">官職報酬</item>
 	<item id="121049">【{0}】官職初獲得</item>
 	<item id="121050">順位</item>
@@ -2077,12 +2077,12 @@
 	<item id="129026">基本報酬:</item>
 	<item id="129027">一定確率で獲得:</item>
 	<item id="129028">実行中:</item>
-	<item id="129029">直ちに獲得</item>
+	<item id="129029">即獲得</item>
 	<item id="129030">報酬を受領してください</item>
-	<item id="129031">報酬を受領する</item>
+	<item id="129031">報酬受領</item>
 	<item id="129032">不測の事態が何も起きなければ…</item>
 	<item id="129033"><![CDATA[スキル:なし]]></item>
-	<item id="129034">より多くの任務</item>
+	<item id="129034">再購入</item>
 	<item id="129035">達成時間:</item>
 	<item id="129036">試練を全て達成。試練回数を購入しますか？</item>
 	<item id="129037">神獣を</item>
@@ -2181,7 +2181,7 @@
 	<item id="132039">霸府オート戦闘</item>
 	<item id="132040"><![CDATA[オート戦闘は戦役Lv14をクリアで開放]]></item>
 	<item id="132041"><![CDATA[<u><font color="#ffcc00">報酬を受領する</u></font>]]></item>
-	<item id="132042">武将天賦を精錬で天賦ボーナスをアップ。出陣する武将天賦合計が戦闘力ボーナスとなる</item>
+	<item id="132042">出陣する武将天賦の合計が戦闘力ボーナスとなる</item>
 	<item id="132043">【支】デイリー任務</item>
 	<item id="132044">【主】{0}</item>
 	
@@ -3056,9 +3056,9 @@
 	<item id="204057">最高等級になると欠片は酒券と交換できます。</item>
 	<item id="204058"><![CDATA[無料精錬回数:{0}]]></item>
 	<item id="204059"><![CDATA[欠片を{0}個売却すると酒券を1枚獲得します]]></item>
-	<item id="204060"><![CDATA[全 軍 戦 力 :<font size='16'><b>{0}</b></font>]]></item>
-	<item id="204061"><![CDATA[猛攻基本天賦:<font size='16'><b>{0}</b></font>]]></item>
-	<item id="204062"><![CDATA[堅守基本天賦:<font size='16'><b>{0}</b></font>]]></item>
+	<item id="204060"><![CDATA[戦闘力:<font size='16'><b>{0}</b></font>]]></item>
+	<item id="204061"><![CDATA[猛攻基本属性:<font size='16'><b>{0}</b></font>]]></item>
+	<item id="204062"><![CDATA[堅守基本属性:<font size='16'><b>{0}</b></font>]]></item>
 	<item id="204063"><![CDATA[開放神将スキル:なし]]></item>
 	<item id="204064"><![CDATA[開放神将スキル:<font size='16' color='#72df37'>><b>[{0}]</b></font>]]></item>
 	<item id="204065">千軍一掃</item>
@@ -3081,7 +3081,7 @@
 	<item id="204082"><![CDATA[複数神獣を保有は可能ですが、神獣1体のみ武将に帰主できます]]><![CDATA[）]]></item>
 	<item id="204083"><![CDATA[   ]]><![CDATA[闘技場で獲得した“開放石”が生み出す狂乱の力は、神獣に眠る太古の力を呼び覚まし、神獣に新しいスキルを覚えさせることができます。]]><![CDATA[（神獣進化スキルは残ります）]]></item>
 	<item id="204084"><![CDATA[（本当にこの神獣のスキルを封印しますか？]]><![CDATA[）]]></item>
-	<item id="204085"><![CDATA[神獣進化条件:[br]1.現在の装備を上限まで強化[br]2.進化薬[br]3.開放石]]></item>
+	<item id="204085"><![CDATA[神獣進化条件:[br]1.現在の装備を[br]上限まで強化[br]2.進化薬[br]3.開放石]]></item>
 	<item id="204086"><![CDATA[レベル{0}]]></item>
 	<item id="204087"><![CDATA[レベル:<font size='16' color='#ffcc00'><b>{0}</b></font>]]></item>
 	<item id="204088"><![CDATA[戦闘力:<font size='16' color='#ffcc00'><b>{0}</b></font>]]></item>
@@ -3117,7 +3117,7 @@
 	<item id="204200">{0}:</item>
 	<item id="204201">{0}の主な用途:</item>
 	<item id="204202">主な入手方法:</item>
-	<item id="204203"><![CDATA[<a href="event:module:8"><u>研究所</u></a>、<a href="event:module:42:6"><u>闇市</u></a>、<a href="event:module:16"><u>牢獄昇級</u></a>、[br]<a href="event:module:48:1"><u>輸送昇級</u></a>、<a href="event:function:55:1"><u>軍令書を発する</u></a>、<a href="event:module:7"><u>武将スキル昇級</u></a>]]></item>
+	<item id="204203"><![CDATA[<a href="event:module:8"><u>研究所</u></a>、<a href="event:module:42:6"><u>闇市</u></a>、<a href="event:module:16"><u>牢獄昇級</u></a>、[br]<a href="event:module:48:1"><u>輸送昇級</u></a>、<a href="event:function:55:1"><u>軍令書を発する</u></a>、<a href="event:module:7"><u>武将スキル</u></a>]]></item>
 	<item id="204204"><![CDATA[<a href="event:module:7:1"><u>武将強化</u></a>、<a href="event:module:42:1"><u>武将の欠片購入</u></a>]]></item>
 	<item id="204205"><![CDATA[<a href="event:module:30:1"><u>兵符</u></a>、<a href="event:module:30:4"><u>宝石</u></a>]]></item>
 	<item id="204206"><![CDATA[<a href="event:module:42:1"><u>勲功商店</u></a>、<a href="event:window:13:country"><u>国家俸給</u></a>、<a href="event:window:13:activity"><u>国家イベント宝箱</u></a>]]></item>
@@ -3615,7 +3615,7 @@
 	<item id="2051946">闘技勲章所:{0}勲章/分</item>
 	<item id="2051947">{0}:城占領で{1}ポイント/分獲得</item>
 	<item id="2051948">ランキング</item>
-	<item id="2051949">ポイント大城:</item>
+	<item id="2051949">大城:</item>
 	<item id="2051950"><![CDATA[<u>{0}</u>]]></item>
 	<item id="2051951">{0}城</item>
 	<item id="2051952">占領側</item>

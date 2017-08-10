@@ -1717,9 +1717,9 @@
 	<item id="121024"><![CDATA[我が国の将兵は向かうところ敵なし。{0}を蹴散らし、<font color='#d16ff2'>{1}</font>を占領しました]]></item>
 	<item id="121025"><![CDATA[我が国の強力な将兵{0}は、<font color='#d16ff2'>{1}</font>を占領しました！]]><![CDATA[！]]></item>
 	<item id="121026"><![CDATA[{0}が我が国の<font color='#d16ff2'>{1}</font>を奇襲し、我が国は残念ながら敗北しました]]></item>
-	<item id="121027"><![CDATA[この上なき屈辱！]]><![CDATA[<font color='#d16ff2'>{0}</font>の主城が{1}に占領されました。我こそはと思わんプレイヤーは奪回を！]]><![CDATA[ ]]><![CDATA[<font color='#ffffcc'><a href='{2}'><u>+</u>に向かう</a></font>]]></item>
+	<item id="121027"><![CDATA[この上なき屈辱！]]><![CDATA[<font color='#d16ff2'>{0}</font>の主城が{1}に占領されました。我こそはと思わんプレイヤーは奪回を！<font color='#ffffcc'><a href='{2}'><u>+に向かう</u></a></font>]]></item>
 	<item id="121028"><![CDATA[{0}が<font color='#d16ff2'>{1}</font>を占領し、また勢力を拡大しました！]]></item>
-	<item id="121029"><![CDATA[<font color='#d16ff2'>{0}</font>将軍が守る<font color='#d16ff2'>{1}</font>が{2}の奇襲を受けて占領されました。<font color='#d16ff2'>{0}</font>将軍は都に戻りました！]]><![CDATA[ ]]><![CDATA[<font color='#ffffcc'><a href='{3}'><u>+</u>に向かう</a></font>]]></item>
+	<item id="121029"><![CDATA[<font color='#d16ff2'>{0}</font>将軍が守る<font color='#d16ff2'>{1}</font>が{2}の奇襲を受けて占領されました。<font color='#d16ff2'>{0}</font>将軍は都に戻りました！<font color='#ffffcc'><a href='{3}'><u>+に向かう</u></a></font>]]></item>
 	<item id="121030"><![CDATA[<font color='#d16ff2'>{0}</font>将軍が守る<font color='#d16ff2'>{1}</font>が{2}の奇襲を受けました。<font color='#d16ff2'>{0}</font>見事防衛に成功しました！]]></item>
 	<item id="121031"><![CDATA[{0}{1}{2}がオンラインになりました。]]></item>
 	<item id="121032"><![CDATA[{0}{1}{2}がオンラインになりました。]]></item>
@@ -1736,7 +1736,7 @@
 	<item id="121043">洛陽をぶらぶらとほっつき歩く時間があれば、戦いの研究でもすることだ</item>
 	<item id="121044">このプレイヤーの陣形は条件を満たしていません。官職戦で守備に参加できません</item>
 	<item id="121045">あなたの陣形は条件を満たしていません。官位を継承できません</item>
-	<item id="121046"><![CDATA[{0}に{1}精鋭部隊が現れました。大量の資源を携帯しています。各将軍は早く討伐に向かってください！]]><![CDATA[ ]]><![CDATA[<font color='#ffffcc'><a href='{2}'><u>+</u>に向かう</a></font>]]></item>
+	<item id="121046"><![CDATA[{0}に{1}精鋭部隊が現れました。大量の資源を携帯しています。各将軍は早く討伐に向かってください！<font color='#ffffcc'><a href='{2}'><u>+に向かう</u></a></font>]]></item>
 	<item id="121048">官職報酬</item>
 	<item id="121049">【{0}】官職初獲得</item>
 	<item id="121050">順位</item>

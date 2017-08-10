@@ -2259,11 +2259,11 @@
 	<item id="180071">張郃</item>
 	<item id="180072">張繍</item>
 	<item id="180073">歩兵</item>
-	<item id="180074">藤甲兵</item>
+	<item id="180074">掘削兵</item>
 	<item id="180075">弓兵</item>
 	<item id="180076">妖術師</item>
 	<item id="180077">騎兵</item>
-	<item id="180078">掘削兵</item>
+	<item id="180078">藤甲兵</item>
 	<item id="180079">董卓</item>
 	<item id="180080">韓遂</item>
 	<item id="180081">胡車児</item>
@@ -2429,10 +2429,10 @@
 	
 	<!--整点杀敌模块 -->
 	<item id="195001"><![CDATA[【{0}】]]></item>
-	<item id="195002"><![CDATA[ランキング:{0}]]></item>
+	<item id="195002"><![CDATA[順位:{0}]]></item>
 	<item id="195003"><![CDATA[敵撃破数:{0}]]></item>
 	<item id="195004"><![CDATA[x{0}]]></item>
-	<item id="195005"><![CDATA[現在ランキング:{0}]]></item>
+	<item id="195005"><![CDATA[現在順位:{0}]]></item>
 	<item id="195006"><![CDATA[敵撃破数:{0}]]></item>
 	<item id="195007"><![CDATA[現在報酬:宝箱x{0}]]></item>
 	<item id="195008"><![CDATA[敵を{0}撃破で報酬アップ！]]></item>
@@ -2445,7 +2445,7 @@
 	<item id="195015">【国家任務:黄巾軍鎮圧】</item>
 	<item id="195016">領土争奪</item>
 	<item id="195017">黄巾軍鎮圧</item>
-	<item id="195018">ランキング外</item>
+	<item id="195018">順位外</item>
 	<item id="195019"><![CDATA[【国家任務:天下統一{0}】]]></item>
 	<item id="195020"><![CDATA[天下統一{0}]]></item>
 	<item id="195021">七縦七擒:{0}</item>
@@ -2612,7 +2612,7 @@
 	<item id="198509"><![CDATA[報酬:鍛冶屋【ゴールド宝箱】x{0}]]></item>
 	<item id="198510"><![CDATA[報酬:{0}x{1}]]></item>
 	<item id="198511">更新</item>
-	<item id="198512"><![CDATA[<font color='#72df37'>{0}</font>に　に更新されます]]></item>
+	<item id="198512"><![CDATA[後<font color='#72df37'>{0}</font>で次に更新：]]></item>
 	<item id="198513"><![CDATA[1.ルーレットは4時間に1回更新されます[br]2.金貨を消費するとルーレットを更新できます[br]3.更新される報酬は全て同じ種類のアイテムです[br]4.報酬は「銀貨」「将星」「鉄」「武魂」の順番で更新されます]]></item>
 	<item id="198514"><![CDATA[1.幸運ルーレットを30回回すと名将<font color='#ffcc00' font="SimHei">【貂蝉】</font>を獲得]]><![CDATA[[br]2.<font color='#ffcc00' font="SimHei">【貂蝉】</font>を招聘後に回すと、<font color='#ffcc00' font="SimHei">【貂蝉の欠片】</font>を1つ獲得]]><![CDATA[[br]3.デイリー累計回数報酬は翌日0時にリセット]]></item>
 	<item id="198515">注:チャージ金貨でのみルーレットを回せます</item>
@@ -3424,7 +3424,7 @@
 	<item id="2051127">結果集計報酬:</item>
 	<item id="2051128">お知らせ:鉄鉱、木材を寄付すると増加が加速します！</item>
 	<item id="2051129">お知らせ:皮革、鉄鉱を寄付すると増加が加速します！</item>
-	<item id="2051130">神獣を召喚できるのはプレイヤーがいる2つの最高レベルの官邸府主だけです。</item>
+	<item id="2051130">神獣の召喚は、最高レベルの官邸府主のみです。</item>
 	<item id="2051131">国家勲章イベントを達成すると[br]1つの部位が点灯します。[br]神獣の3つの部位が全て点灯すると、[br]世界で神獣を召喚できるようになります！
 	</item>
 	<item id="2051132">官職ランキング:{0}</item>

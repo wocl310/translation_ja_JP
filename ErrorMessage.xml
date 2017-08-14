@@ -7,7 +7,7 @@
     	<item id="E00003">このアカウントはリモートでログインされました</item>	
 	<item id="E00004">金貨不足</item>
 	<item id="E00005">必要な資源が不足</item>
-	<item id="E00006">官職条件未満</item>
+	<item id="E00006">条件未達成</item>
 	<item id="E00007">名称無効</item>
 	<item id="E00008">募集資源不足</item>
 	<item id="E00009">パラメータエラー</item>

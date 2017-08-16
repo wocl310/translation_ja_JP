@@ -988,7 +988,7 @@
 	
 	<item id="101083"><![CDATA[<font color="#ffcc00">国家任務が<font color="#d16ff2">{0}</font>分後に開放されます。皆さん準備はいいですか？]]><![CDATA[</font>]]></item>
 	<item id="101084"><![CDATA[<font color="#ffcc00"><font color="#d16ff2">{0}</font>の味方陣営への加入を歓迎します。]]><![CDATA[</font>]]></item>
-	<item id="101085"><![CDATA[<font color="#ffcc00"><font color="#d16ff2">{0}</font>は道端で紫神獣を拾ったそうですが、<font color="#d16ff2">{1}</font>信じられますか？]]><![CDATA[</font>]]></item>
+	<item id="101085"><![CDATA[<font color="#ffcc00"><font color="#d16ff2">{0}</font>は<font color="#d16ff2">{1}</font>を獲得！]]><![CDATA[</font>]]></item>
 	<item id="101086"><![CDATA[<font color="#ffcc00"><font color="#d16ff2">{0}</font>はレア装備<font color="#d16ff2">{1}</font>を獲得し、能力は大きくアップしました。]]><![CDATA[！</font>]]></item>
 	
 	<item id="101087"><![CDATA[<font color="{0}">{1}</font>:{2}]]></item>
@@ -1537,7 +1537,7 @@
 	<item id="115002">戦闘力</item>
 	
 	<!--升官界面 -->
-	<item id="116001">寄贈</item>
+	<item id="116001">獲得</item>
 	<item id="116002">開放</item>
 	<item id="116003">Lv{0}が開放されました</item>
 	<item id="116004">品</item>
@@ -1571,7 +1571,7 @@
 	<item id="118000">勲功</item>
 	<item id="118001">【宝庫昇級】</item>
 	<item id="118002">次のレベルの報酬</item>
-	<item id="118003"><![CDATA[勲功を<B><font color='#ffcc00'>{0}</font></B>獲得で、報酬が昇級！]]></item>
+	<item id="118003"><![CDATA[勲功<B><font color='#ffcc00'>{0}</font></B>獲得で、報酬昇級]]></item>
 	<item id="118004">現在報酬レベルは最高です</item>
 	<item id="118005">宝箱で経験値を獲得可能！</item>
 	<item id="118006">昇級宝箱</item>
@@ -2640,7 +2640,7 @@
 	<item id="198607"><![CDATA[売値:<font color="#dedede" size="14">{0}</font>]]></item>
 	<item id="198608"><![CDATA[交換回数:<font color="#ccb986">{0}/{1}（1時間ごとに+1）</font>]]></item>
 	<item id="198609"><![CDATA[闇市資源:<font color="#ccb986">{0}後に更新されます</font>]]></item>
-	<item id="198610"><![CDATA[リキャスト中:<font color="#{0}">{1}</font>]]></item>
+	<item id="198610"><![CDATA[更新中:<font color="#{0}">{1}</font>]]></item>
 	<item id="198611">削除</item>
 	<item id="198612">獲得</item>
 	<item id="198613">市場基本收益</item>
@@ -2844,7 +2844,7 @@
 	
 	<!-- 争霸赛 -->
 	<item id="202001"><![CDATA[<font color='#ffcc00'>{0}</font>]]></item>
-	<item id="202002"><![CDATA[実行中:]]></item>
+	<item id="202002"><![CDATA[戦況:]]></item>
 	<item id="202003"><![CDATA[状態:]]></item>
 	<item id="202004"><![CDATA[ベットP:]]></item>
 	<item id="202005">鏡像の力を選択:</item>
@@ -2910,7 +2910,7 @@
 	<item id="202064">エントリー済</item>
 	<item id="202065">未エントリー</item>
 	<item id="202066">グループ分け待ち</item>
-	<item id="202067">{0}を占拠する</item>
+	<item id="202067">{0}を占拠</item>
 	<item id="202068">洛陽の居館未占領</item>
 	<item id="202069">他のプレイヤーの戦闘終了を待つ</item>
 	<item id="202070">{0}ポイント</item>
@@ -3163,7 +3163,7 @@
 	<item id="204400">ルール説明</item>
 	<item id="204401">開始</item>
 	<item id="204402">購入</item>
-	<item id="204403">着手</item>
+	<item id="204403">戦闘</item>
 	<item id="204404">離れる</item>
 	<item id="204405">逃走</item>
 	<item id="204406">小僧、準備はできたかな？</item>
@@ -3421,7 +3421,7 @@
 	<item id="2051115">なし</item>
 	<item id="2051116"><![CDATA[貢献疲労:<font size='16'>{0}</font>]]></item>
 	<item id="2051117">{0}寄付→{1}獲得</item>
-	<item id="2051118"><![CDATA[味方が獲得した勲章に応じて報酬を獲得。毎日0時更新]]><![CDATA[[br]進行度バーが満タンで神獣の1つの部位が点灯[br]3つの部位が点灯で神獣を召喚可能に。]]><![CDATA[[br]3.神獣の召喚は官邸府主のみ可能です。[br]神獣を撃破すると豪華報酬を獲得できます。]]></item>
+	<item id="2051118"><![CDATA[味方が獲得した勲章に応じて報酬を獲得。毎日0時更新]]><![CDATA[[br]進行度バーが満タンで神獣の1つの部位が点灯[br]3つの部位が点灯で神獣を召喚可能に。]]><![CDATA[[br]神獣の召喚は官邸府主のみ可能です。[br]神獣を撃破すると豪華報酬を獲得できます。]]></item>
 	<item id="2051119">国家累計勲章</item>
 	<item id="2051120"><![CDATA[<font color='#e2a946'>入手方法:</font>]]></item>
 	<item id="2051121"><![CDATA[勲章の主な入手方法:[br]世界軍令書（発出者はより多く獲得できます）[br]世界政務[br]資源寄付]]></item>
@@ -3484,8 +3484,8 @@
 	<item id="2051406"></item>
 	<item id="2051407"><![CDATA[         分将星を獲得可能]]></item>
 	<item id="2051408"></item>
-	<item id="2051409"><![CDATA[<a href="event:1"><u>購入に向かう</u></a>]]></item>
-	<item id="2051410"><![CDATA[イベント期間:<font size='16'>{0}</font>]]></item>
+	<item id="2051409"><![CDATA[<a href="event:1"><u>購入</u></a>]]></item>
+	<item id="2051410"><![CDATA[期間:<font size='16'>{0}</font>]]></item>
 	
 	<!--仙师送福模块 -->
 	<item id="2051501">受領</item>
@@ -3498,12 +3498,12 @@
 	<item id="2051508"><![CDATA[<font color='#72df37'>おめでとうございます。当たりました</font>]]></item>
 	<item id="2051509">イベント期間:{0}</item>
 	<item id="2051510">今日の無料回数:{0}/{1}</item>
-	<item id="2051511">結果は{0} 後公開</item>
+	<item id="2051511">{0}後結果公開</item>
 	<item id="2051512">ゲームをしないか？</item>
 	<item id="2051513">私が食べたい果物を当てたら</item>
 	<item id="2051514">武魂をたくさんやるぞ！</item>
-	<item id="2051515">結果は{0} 後に公開されます</item>
-	<item id="2051516">仙人がほしい素材</item>
+	<item id="2051515">{0}後結果公開</item>
+	<item id="2051516">仙人がほしい果物</item>
 	<item id="2051517">1.結果発表は2分後です[br]2.指定した素材と仙人がほしい果物が一致したら当たりとなります。[br]3.正解数=アイテム数x2xBET数[br]4.BET後には変更はできません[br]5.無料BET数は1日に3回与えられます[br]6.無料BET数は毎日00:00にリセットされます。
 	</item>
 	<item id="2051518"><![CDATA[<font color='{0}'>[{1}]{2}</font>が<font color='#ffcc00'>{3}</font>を獲得]]></item>

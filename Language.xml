@@ -1084,7 +1084,7 @@
 	
 	<item id="102054">評価:</item>
 	<item id="102055">クリックで経験値を獲得</item>
-	<item id="102056">廃墟は全て回収済み</item>
+	<item id="102056">全て回収済み</item>
 	<item id="102057">再探索</item>
 	<item id="102058">より多くの資源を獲得</item>
 	<item id="102059">残りリセット回数</item>
@@ -1951,8 +1951,6 @@
 	<item id="124092">精錬を行うたびにランダムでスキルの種類が、開放されているスキル枠分変更されます。また、一定確率でスキルのレベルが上昇します。紫神獣の場合、全てのスキル枠がLv10に到達し、同じ種類のスキルが揃った場合、同様のスキルが新たに追加されます。
 	</item>
 	
-	<item id="124093"><![CDATA[祭儀を行うごとに、祭儀者が一定確率で変わります。[br]また、祭儀者に応じて、獲得する神獣がことなります。[br]<font color='#72df37' size='14'><B>祭儀者確率</B></font>[br]黄帝 ：  53%[br]太上老君 ：  38%[br]西王母 ：  7.8%[br]女娲 ：  1.0%[br]伏羲 ：  0.2%]]></item>
-	
 	
 	<!-- 圣旨 -->
 	<item id="125000">受諾</item>
@@ -2489,11 +2487,11 @@
 	<item id="196019">行動力は30分ごとに1ポイント回復します</item>
 	<item id="196020">精錬完了</item>
 	<item id="196021">宝石</item>
-	<item id="196022">象眼</item>
+	<item id="196022">嵌める</item>
 	<item id="196023">宝石合成</item>
 	<item id="196024"><![CDATA[<font color='{0}'>{1}</font>[br]<font color='#ccb986'>宝石属性:</font><font color='#ffffff'>{2}</font>]]></item>
 	<item id="196025"><![CDATA[<font color='{0}'>{1}</font>[br]<font color='#ccb986'>宝石属性:</font><font color='#ffffff'>{2}</font>[br]<font color='#d23a3a'>開放条件:{3}Lv{4}強化</font>]]></item>
-	<item id="196026">クリックで外す</item>
+	<item id="196026">外す</item>
 	<item id="196027"><![CDATA[合 成]]></item>
 	<item id="196028">全軍の物理攻撃</item>
 	<item id="196029">全軍の物理防御</item>
@@ -2658,7 +2656,7 @@
 	<item id="198623">たまにはいい物も持ってくるんだよ！</item>
 	<item id="198624">今日の天気はなかなかいいね</item>
 	<item id="198625">よくいらっしゃるな</item>
-	<item id="198626">俺の気分がいいときにまけてやるよ！！</item>
+	<item id="198626">気分が良い時にまけますよ！</item>
 	<item id="198627">不要な品がある場合は更新を待ってください</item>
 	<item id="198628">無茶な値段ですと？ここは闇市だよ</item>
 	<item id="198629">セールをお待ちください。いずれ必ずあるでしょう</item>
@@ -2697,7 +2695,7 @@
 	<item id="198662">銖銭獲得</item>
 	<item id="198663">威望獲得</item>
 	<item id="198664">獲得</item>
-	<item id="198665">スキン</item>
+	<item id="198665">装扮</item>
 	<item id="198666">装着効果</item>
 	<item id="198667">武将战力：</item>
 	<item id="198668">より</item>
@@ -2941,7 +2939,7 @@
 	<item id="203004">永久</item>
 	<item id="203005">購入済</item>
 	<item id="203006">イベント終了</item>
-	<item id="203007">購入</item>
+	<item id="203007">課金</item>
 	<item id="203008"><![CDATA[（残り時間:<font color='#72df37'>{0}</font>）]]></item>
 	<item id="203009"><![CDATA[スキル[br]<font color='#72df37'>[孤月独明]</font>を確認]]></item>
 	<item id="203010">未保有</item>
@@ -3630,7 +3628,7 @@
 	<item id="2051946">闘技勲章所:{0}勲章/分</item>
 	<item id="2051947">{0}:城占領で{1}ポイント/分獲得</item>
 	<item id="2051948">ランキング</item>
-	<item id="2051949">大城:</item>
+	<item id="2051949">  大城:</item>
 	<item id="2051950"><![CDATA[<u>{0}</u>]]></item>
 	<item id="2051951">{0}城</item>
 	<item id="2051952">占領側</item>
@@ -3638,7 +3636,7 @@
 	<item id="2051954">MAX</item>
 	<item id="2051955">開放時間:{0}-{1}</item>
 	<item id="2051956">次回開放 {0}</item>
-	<item id="2051957">開放まで {0}</item>
+	<item id="2051957">開放期間 {0}</item>
 	<item id="2051958">競技場が開放されました！</item>
 	<item id="2051959">称号を強化すると戦闘力が上がります！</item>
 	

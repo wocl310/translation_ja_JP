@@ -2508,13 +2508,13 @@
 	<item id="196038">最大</item>
 	<item id="196039">赤宝石</item>
 	<item id="196040">緑宝石</item>
-	<item id="196041">青宝石</item>
+	<item id="196041">藍宝石</item>
 	<item id="196042">黄宝石</item>
 	<item id="196043">橙宝石</item>
 	<item id="196044">白宝石</item>
 	<item id="196045">黒宝石</item>
 	<item id="196046">紫宝石</item>
-	<item id="196047">青宝石</item>
+	<item id="196047">藍宝石</item>
 	<item id="196048">茶宝石</item>
 	<item id="196049"><![CDATA[{0}孔]]></item>
 	<item id="196050">同じ宝石3個を等級が高い宝石1個に合成できます。</item>
@@ -3758,4 +3758,9 @@
 	<item id="20561100">普通矿镐</item>
 	<item id="20561101">黄金锤</item>
 	<item id="20561102">开采清单</item>
-</language>	
+	<item id="20561103">活动说明</item>
+	<item id="20561104">开采次数:</item>
+	<item id="20561105"><![CDATA[开采次数+{0}[br]需要勋章{1}]]></item>
+	<item id="20561106"><![CDATA[我的勋章：[br]{0}]]></item>
+	<item id="20561107">活动说明活动说明活动说明活动说明活动说明活动说明活动说明活动说明活动说明活动说明活动说明活动说明活动说明</item>
+</language>

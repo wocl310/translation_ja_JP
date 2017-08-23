@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>	
 <!--错误语言包-->	
 <error>	
-   	<item id="E00000">無効操作</item>	
-	<item id="E00001">無効パラメータ</item>
+    <item id="E00000"></item>
+	<item id="E00001"></item>
 	<item id="E00002">食糧不足</item>
     	<item id="E00003">このアカウントはリモートでログインされました</item>	
 	<item id="E00004">金貨不足</item>
@@ -262,7 +262,7 @@
 	<item id="E100130">アイテム不足</item>
 	<item id="E100131">イベント未開放</item>
 	<item id="E100132">イベント戦闘中</item>
-	<item id="E100133">挖宝次数不足</item>
+	<item id="E100133">开采次数不足</item>
 	
 	<item id="E100140">ステージはクリアしていません</item>
 	<item id="E100141">英傑殿開放中</item>
